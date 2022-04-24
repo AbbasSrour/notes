@@ -1,0 +1,16 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "showFrontmatter": false,
+  "tabSize": 2,
+  "vimMode": true,
+  "showLineNumber": true,
+  "readableLineLength": true,
+  "strictLineBreaks": true,
+  "foldHeading": true,
+  "promptDelete": true,
+  "spellcheck": true,
+  "foldIndent": true,
+  "defaultViewMode": "source",
+  "fileSortOrder": "byCreatedTimeReverse"
+}

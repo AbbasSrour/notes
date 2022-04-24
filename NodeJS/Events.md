@@ -1,0 +1,9 @@
+## Daily Planner
+- [ ] 14:00 OS 4
+- [ ] 16:00 Break
+- [ ] 16:30 DB 9
+- [ ] 18:00 BREAK
+- [ ] 18:30 NW 5-6
+- [ ] 19:30 BREAK
+- [ ] 20:00 NW 5-6
+- [ ] 21:00 OS Lecture 5

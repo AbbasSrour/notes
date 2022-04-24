@@ -1,0 +1,255 @@
+@charset "UTF-8";
+:root {
+  /*----------------------------------------------------------------
+  FONT Settings
+  ----------------------------------------------------------------*/
+  /* Preview mode */
+  --text: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans,
+    Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+  /* Editor mode */
+  --text-editor: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+  /* Code */
+  --font-monospace: "Operator Mono Lig Medium", "JetBrains Mono", SFMono-Regular,
+    Consolas, "Roboto Mono", monospace;
+  /* UI */
+  --font-ui: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans,
+    Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+  --h1-font-size: 1.5em;
+  --h2-font-size: 1.3em;
+  --h3-font-size: 1.1em;
+  --h4-font-size: 0.9em;
+  --h5-font-size: 0.85em;
+  --h6-font-size: 0.85em;
+  --h1-font-weight: 700;
+  --h2-font-weight: 700;
+  --h3-font-weight: 600;
+  --h4-font-weight: 500;
+  --h5-font-weight: 500;
+  --h6-font-weight: 400;
+  /*----------------------------------------------------------------
+  Colors
+  ----------------------------------------------------------------*/
+  --color0: #1d202f;
+  --color1: #bb9af7;
+  --color2: #f7768e;
+  --color3: #db4b4b;
+  --color4: #9ece6a;
+  --color5: #46c681;
+  --color6: #e0af68;
+  --color7: #ff9e64;
+  --color8: #7dcfff;
+  --color9: #7aa2f7;
+  --color10: #3b4261;
+  --color11: #414868;
+  --color12: rgba(122, 136, 207, 0.25);
+  --color13: #c0caf5;
+  --color14: #a9b1d6;
+  --foreground: #c0caf5;
+  --selection_background: #364a82;
+  --selection_foreground: #c0caf5;
+  --cursor: #c0caf5;
+  --h1-color: var(--text-normal);
+  --h2-color: var(--color1);
+  --h3-color: var(--color9);
+  --h4-color: var(--color5);
+  --h5-color: var(--color7);
+  --h6-color: var(--color2);
+  --em-color: var(--color5);
+  --strong-color-1: var(--color9);
+  --strong-color-2: var(--color1);
+  --strong-em-color: var(--color2);
+}
+
+.theme-dark {
+  --background-primary: #24283b;
+  --background-primary-alt: #24283b;
+  --background-secondary: #1e2030;
+  --background-secondary-alt: #1e2030;
+  --background-modifier-border: #1e2030;
+  --background-modifier-form-field: #191a2a;
+  --background-modifier-form-field-highlighted: #1e2030;
+  --background-modifier-box-shadow: rgba(0, 0, 0, 0.3);
+  --background-modifier-success: #197300;
+  --background-modifier-error: #3d0000;
+  --background-modifier-error-rgb: 61, 0, 0;
+  --background-modifier-error-hover: #470000;
+  --background-modifier-cover: rgba(0, 0, 0, 0.8);
+  --text-accent: #50c4fa;
+  --text-accent-hover: rgba(80, 196, 250, 0.8);
+  --text-normal: #c8d3f5;
+  --text-muted: #a9b8e8;
+  --text-muted-rgb: 153, 153, 153;
+  --text-faint: $text-dark;
+  --text-error: #ff98a4;
+  --text-error-hover: #990000;
+  --text-highlight-bg: rgba(252, 167, 234, 0.2);
+  --text-highlight-bg-active: rgba(255, 128, 0, 0.4);
+  --text-selection: rgba(252, 167, 234, 0.2);
+  --text-on-accent: #e2e8fa;
+  --interactive-normal: #2a2a2a;
+  --interactive-hover: #2f334d;
+  --interactive-accent: #444a73;
+  --interactive-accent-rgb: 68, 74, 115;
+  --interactive-accent-hover: #828bb8;
+  --interactive-success: #197300;
+  --scrollbar-active-thumb-bg: #444a73;
+  --scrollbar-bg: inherit;
+  --scrollbar-thumb-bg: #2f334d;
+  --highlight-mix-blend-mode: lighten;
+  --base-h: 212;
+  /* Base hue */
+  --base-s: 15%;
+  /* Base saturation */
+  --base-d: 13%;
+  /* Base lightness Dark Mode  - 0 is black */
+  --base-l: 97%;
+  /* Base lightness Light Mode  - 100 is white */
+  --quote-opening-modifier: hsl(
+    var(--base-h),
+    var(--base-s),
+    calc(var(--base-l) - 10%)
+  );
+}
+
+/*----------------------------------------------------------------
+Headers
+----------------------------------------------------------------*/
+.cm-header-1,
+h1 {
+  font-size: var(--h1-font-size);
+  font-weight: var(--h1-font-weight);
+  color: var(--h1-color);
+  border-bottom: 1px solid var(--color12);
+}
+
+.cm-header-2,
+h2 {
+  font-size: var(--h2-font-size);
+  font-weight: var(--h2-font-weight);
+  color: var(--h2-color);
+  border-bottom: 1px solid var(--color12);
+}
+
+.cm-header-3,
+h3 {
+  font-size: var(--h3-font-size);
+  font-weight: var(--h3-font-weight);
+  color: var(--h3-color);
+}
+
+.cm-header-4,
+h4 {
+  font-size: var(--h4-font-size);
+  font-weight: var(--h4-font-weight);
+  color: var(--h4-color);
+}
+
+.cm-header-5,
+h5 {
+  font-size: var(--h5-font-size);
+  font-weight: var(--h5-font-weight);
+  color: var(--h5-color);
+}
+
+.cm-header-6,
+h6 {
+  font-size: var(--h6-font-size);
+  font-weight: var(--h6-font-weight);
+  color: var(--h6-color);
+}
+
+/*----------------------------------------------------------------
+Emphasise
+----------------------------------------------------------------*/
+.cm-strong,
+strong {
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  color: var(--color8);
+  background-color: var(--color8);
+  background-image: linear-gradient(120deg, var(--strong-color-1) 0%, var(--strong-color-2) 70%);
+}
+
+.cm-em,
+em {
+  color: var(--em-color);
+}
+
+*:not(font) > em > strong,
+*:not(font) > strong > em,
+.cm-strong.cm-em {
+  color: var(--strong-em-color);
+  background-color: var(--strong-em-color);
+  background-image: none;
+}
+
+/*----------------------------------------------------------------
+Quotes
+----------------------------------------------------------------*/
+.markdown-source-view.mod-cm6.is-live-preview .HyperMD-quote {
+  font-family: var(--text);
+  font-size: 1em;
+  background-color: #9191911c !important;
+  border-left: 0.3em solid var(--color1);
+}
+
+.markdown-preview-view blockquote {
+  font-family: var(--text);
+  font-size: 1em;
+  background-color: #9191911c !important;
+  border: 0px;
+  border-left: 0.7em solid var(--color1);
+  border-radius: 5px;
+  position: relative;
+}
+
+.markdown-preview-view blockquote::before {
+  content: "“";
+  font-family: "Source Code Pro", sans-serif;
+  position: absolute;
+  font-size: 3em;
+  top: -28%;
+  left: 45%;
+}
+
+.markdown-preview-view blockquote p:first-of-type {
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
+
+/*----------------------------------------------------------------
+Code Block
+----------------------------------------------------------------*/
+.HyperMD-codeblock.HyperMD-codeblock-bg.cm-line {
+  background-color: #9191911c;
+}
+
+.theme-dark pre[class*=language-] {
+  background: #9191911c;
+  border-left: 0.7em solid var(--color5);
+  border-radius: 1.5rem;
+}
+
+.markdown-rendered pre {
+  background-color: #9191911c;
+  border-left: 0.7em solid var(--color5);
+  padding: 6px 10px;
+  border-radius: 4px;
+  white-space: pre-wrap;
+  border-radius: 1.5rem;
+}
+
+.markdown-rendered button.copy-code-button {
+  background-color: #9191911c;
+}
+
+/*----------------------------------------------------------------
+UI
+----------------------------------------------------------------*/
+/* ---------------------- */
+/* Better Live Preview */
+/* ---------------------- */
+
+/*# sourceMappingURL=Tokyo%20Memories.css.map */

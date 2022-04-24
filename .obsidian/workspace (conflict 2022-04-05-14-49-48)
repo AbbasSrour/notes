@@ -1,0 +1,106 @@
+{
+  "main": {
+    "id": "8e6f876fed3cd346",
+    "type": "split",
+    "children": [
+      {
+        "id": "613238dad572722a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "NodeJS/Events.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ddb27fec04a33241",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "3f9887075c202235",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "c5a814ac1b4fa28d",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ]
+  },
+  "right": {
+    "id": "a5d98d89b17394ba",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "709dddea4c300c92",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "NodeJS/Events.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": true,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "3164370523133278",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "NodeJS/Events.md"
+          }
+        }
+      },
+      {
+        "id": "b9420be6ec17a584",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 2
+  },
+  "active": "613238dad572722a",
+  "lastOpenFiles": [
+    "NodeJS/Events.md",
+    "Day Planner/Tuesday, April 5th 2022.md",
+    "Day Planner/Monday, April 4th 2022.md",
+    "NodeJS/ExpressJS.md",
+    "OS/Processes.md",
+    "OS/Threads.md",
+    "OS/Operating Systems.md",
+    "OS/Concurrency And Parallalism.md",
+    "OS/Address Space.md",
+    "DBMS/DBMS Design.md"
+  ]
+}

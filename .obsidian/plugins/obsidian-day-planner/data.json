@@ -1,0 +1,20 @@
+{
+  "customFolder": "Day Planners",
+  "mode": 1,
+  "mermaid": true,
+  "notesToDates": [
+    {
+      "notePath": "Day Planner/Monday, April 4th 2022.md",
+      "date": "Mon Apr 04 2022"
+    },
+    {
+      "notePath": "Day Planner/Tuesday, April 5th 2022.md",
+      "date": "Tue Apr 05 2022"
+    }
+  ],
+  "completePastItems": true,
+  "circularProgress": true,
+  "nowAndNextInStatusBar": false,
+  "showTaskNotification": false,
+  "timelineZoomLevel": 1
+}

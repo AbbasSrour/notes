@@ -1,0 +1,9 @@
+{
+  "baseFontSize": 15,
+  "theme": "obsidian",
+  "translucency": false,
+  "cssTheme": "Things",
+  "enabledCssSnippets": [
+    "Tokyo Memmories"
+  ]
+}
