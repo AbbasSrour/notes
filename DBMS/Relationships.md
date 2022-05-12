@@ -10,7 +10,7 @@ A relationship relates two or more distinct [[Entities]] with a specific meaning
 **Relationship Type Attributes:** A relationship type can have [[ER Model Diagram#Attributes|attributes]], most relationship attributes are used with M:N relationships. In 1:N relationships, they can be transferred to the entity type on the N-side of the relationship.
 
 ## Recursive Relationship
-An relationship type whose with the same participating entity type in distinct roles.
+Recursive Relationship is a relationship between an entity and it self, i.e. the same entity type appears more than once in a relationship.
 
 ## Constraints on Relationships
 Constraints on Relationship Types (Also known as ratio constraints) can be:
