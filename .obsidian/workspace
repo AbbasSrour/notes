@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DBMS/Relational Data Model.md",
+            "file": "Database/DBMS/Queries/Data Definition Language.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DBMS/Relational Data Model.md",
+                "file": "Database/DBMS/Queries/Data Definition Language.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DBMS/Relational Data Model.md",
+                "file": "Database/DBMS/Queries/Data Definition Language.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -159,25 +159,25 @@
                 }
               }
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "29b36f273e258d73",
-        "type": "tabs",
-        "dimension": 53.16455696202531,
-        "children": [
+          },
           {
             "id": "8c60aba367fb55a9",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "DBMS/Relational Data Model.md"
+                "file": "Database/DBMS/Queries/Data Definition Language.md"
               }
             }
-          },
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "29b36f273e258d73",
+        "type": "tabs",
+        "dimension": 53.16455696202531,
+        "children": [
           {
             "id": "e1d0699e9b8775ff",
             "type": "leaf",
@@ -186,8 +186,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -195,15 +194,15 @@
   },
   "active": "613238dad572722a",
   "lastOpenFiles": [
-    "DBMS/Relational Data Model.md",
-    "DBMS/ER Model Diagram.md",
-    "DBMS/Data Model.md",
-    "DBMS/Entities.md",
-    "DBMS/Relationships.md",
-    "DBMS/Attributes.md",
-    "Day Planner/Tuesday, April 5th 2022.md",
-    "OS/Processes.md",
-    "OS/Threads.md",
-    "NodeJS/Events.md"
+    "Database/DBMS/Queries/Data Definition Language.md",
+    "Database/DBMS/DBMS.md",
+    "Database/DBMS/Queries/Views.md",
+    "Database/DBMS/Languages/Domain Relation Calculus.md",
+    "MarkdownCheck.md",
+    "Database/DBMS/Languages/Relational Algebra.md",
+    "Database/DBMS/Languages/Formal Languages.md",
+    "Database/DBMS/Languages/Tuple Relation Calculus.md",
+    "DBMS/DBMS Practical/Queries/Tuple Relational Calculus.md",
+    "Database/DBMS/Design/Relational Data Model.md"
   ]
 }

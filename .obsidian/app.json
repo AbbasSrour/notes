@@ -8,9 +8,10 @@
   "readableLineLength": true,
   "strictLineBreaks": true,
   "foldHeading": true,
-  "promptDelete": true,
+  "promptDelete": false,
   "spellcheck": true,
   "foldIndent": true,
   "defaultViewMode": "source",
-  "fileSortOrder": "byCreatedTimeReverse"
+  "fileSortOrder": "byCreatedTimeReverse",
+  "alwaysUpdateLinks": true
 }
