@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Database/DBMS/Queries/Data Definition Language.md",
+            "file": "Database/DBMS/Queries/Data Manipulation Language.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -54,7 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272
+    "width": 296
   },
   "right": {
     "id": "29baa0b6d6967c5e",
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/DBMS/Queries/Data Definition Language.md",
+                "file": "Database/DBMS/Queries/Data Manipulation Language.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Database/DBMS/Queries/Data Definition Language.md",
+                "file": "Database/DBMS/Queries/Data Manipulation Language.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database/DBMS/Queries/Data Definition Language.md"
+                "file": "Database/DBMS/Queries/Data Manipulation Language.md"
               }
             }
           }
@@ -190,19 +190,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282
+    "width": 284
   },
   "active": "613238dad572722a",
   "lastOpenFiles": [
-    "Database/DBMS/Queries/Data Definition Language.md",
-    "Database/DBMS/DBMS.md",
-    "Database/DBMS/Queries/Views.md",
-    "Database/DBMS/Languages/Domain Relation Calculus.md",
-    "MarkdownCheck.md",
+    "Database/DBMS/Queries/Data Manipulation Language.md",
     "Database/DBMS/Languages/Relational Algebra.md",
-    "Database/DBMS/Languages/Formal Languages.md",
+    "Database/DBMS/Queries/Data Definition Language.md",
+    "Database/DBMS/Queries/Null.md",
+    "Database/DBMS/Queries/Views.md",
+    "NodeJS/Streams.md",
+    "OS/OS Threades.md",
+    "OS/Operating Systems.md",
     "Database/DBMS/Languages/Tuple Relation Calculus.md",
-    "DBMS/DBMS Practical/Queries/Tuple Relational Calculus.md",
-    "Database/DBMS/Design/Relational Data Model.md"
+    "Database/DBMS System/DBMS Design.md"
   ]
 }

@@ -12,6 +12,6 @@
   "spellcheck": true,
   "foldIndent": true,
   "defaultViewMode": "source",
-  "fileSortOrder": "byCreatedTimeReverse",
+  "fileSortOrder": "alphabetical",
   "alwaysUpdateLinks": true
 }

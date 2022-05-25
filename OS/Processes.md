@@ -1,7 +1,7 @@
 ## Processes
 A process is an execution environment with restricted rights, it essentially consists of:
 * **Address Space**
-*  **[[Threads]] Of Control** executing in that address space
+*  **[[OS Threades]] Of Control** executing in that address space
 * **System State** associated with open files, open sockets...
 
 A process is always created by another process, and the the first process is always called by the kernel.

@@ -3,7 +3,7 @@ An OS is a set of programs that provide clean, easy-to-use abstractions of physi
 ### Protection
 Operating system must protect itself from user programs, for multiple reasons:
 * **Reliability:** compromising the operating system generally causes it to crash
-* **Security:** limit the scope of what [[Threads|threads]] can do
+* **Security:** limit the scope of what [[OS Threades|threads]] can do
 * **Privacy:** limit each thread to the data it is permitted to access
 * **Fairness:** each thread should be limited to its appropriate share of system resources (CPU time, memory, I/O, etc).
 

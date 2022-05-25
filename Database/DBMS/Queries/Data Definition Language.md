@@ -17,30 +17,58 @@ The type of values that an attribute will have, the most common types used are:
 * **time:** Time of day, in hours minutes and seconds.
 
 ### Null
-Null values are allowed by default, and using the `not null` command will prohibit null values for that attribute.
+[[Null]] values are allowed by default, and using the `not null` command will prohibit null values for that attribute.
 
 ### Domain Creation
 The DDL allows for the creation of custom domains with custom names using the basic provided domains, using the `create domain` command.
 ```sql
 create domain <domain-name> char(20) not null
 ```
+## Database Creation
+To create a database and allocate a space for it the `create database` command is used, to specify the name of the database and the location of the database and the log file.
+```sql
+USE master
+GO
+CREATE DATABASE <database-name>
+ON (NAME=\<database-name>_dat,
+		FILENAME = '/location/of/<database-name>.mdf')
+LOG ON (NAME = '/<database-name>_log',
+				FILENAME ='/location/of/\<database-name>.ldf')
+GO
+```
+
 
 ## Table Creation
 An sql relation is defined using the `create table` command:
 ```sql
-create table r ( A1 D1,
-								 A2 D2,
-								 A3 D3,
+create table r ( A1 D1 <integrity-constraint>...,
+								 A2 D2 <integrity-constraint>...,
+								 A3 D3 <integrity-constraint>...,
 								 ...,
-								 An Dn,
+								 An Dn <integrity-constraint>...,
 								 
 								 <integrity-constraint1>,
 								 <integrity-constraint2>,
 								 ...,
 								 <integrity-constraintk>
 								)
+GO
 ```
 Where `r` is the relation name, $A_i$ is the attribute name,  and $D_i$ is the domain of $A_i$.
 
 ### Integrity Constrains
-Integrity Constraints are **the protocols that a table's data columns must follow**. These are used to restrict the types of information that can be entered into a table. This means that the data in the database is accurate and reliable. You may apply integrity Constraints at the column or table level. Primary key for example is an integrity constraint because it must always must be unique, or a check on the values entered for an attribute like being $check(attrinute_j > x)$.
+Integrity Constraints are **the protocols that a table's data columns must follow**. These are used to restrict the types of information that can be entered into a table. This means that the data in the database is accurate and reliable. You may apply integrity Constraints at the column or table level. Examples of integrity constraints:
+* **primary key(`<attribute-name1>, <attribute-name2>...<attribute-namek>`)** 
+* **foreign key(`<attribute-name>`) references `<table-name>`(`<referenced-attribute>`)**
+* **check(P)**
+* **not null/null**
+* **constraint `<constraint-name>` `<constraint1>`. . .`<constraintk>` (`<attribute-name>`)**
+* **unclustered/clustered**
+
+## Drop And Alter Table
+### Drop
+To delete a table from database the command `dop table` which deletes the schema and the tuples of a relation.
+
+### Alter
+The  `alter table r` command in conjunction with `add <attribute-name>` or `drop <attribute-name>` is used to modify an existing relation.
+

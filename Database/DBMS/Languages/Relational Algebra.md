@@ -10,7 +10,7 @@ $\lt attribute \gt$ $binary$ $relation$  $\lt attribute\gt$ or $\lt constant\gt$
 
 And $r$ is the relation selected.
 
-## Project
+## Projection
 $$ \Pi_{A_1,A_2...A_K} (r)$$
 Where $A_1,A_2...A_K$ is are the attribute names and $r$ is the relation name.
 
@@ -96,8 +96,3 @@ A basic expression in the relational algebra consists of either a relation in th
 
 ## Composite Of Operations 
 Building expressions from two or more operations.
-
- # Null Values
- #ch4 #vid5 #min14 #missing
- 
-
