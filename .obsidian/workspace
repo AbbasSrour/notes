@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Database/DBMS/Queries/Data Manipulation Language.md",
+            "file": "SE/Use Case Diagram.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/DBMS/Queries/Data Manipulation Language.md",
+                "file": "SE/Use Case Diagram.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Database/DBMS/Queries/Data Manipulation Language.md",
+                "file": "SE/Use Case Diagram.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database/DBMS/Queries/Data Manipulation Language.md"
+                "file": "SE/Use Case Diagram.md"
               }
             }
           }
@@ -194,15 +194,15 @@
   },
   "active": "613238dad572722a",
   "lastOpenFiles": [
+    "SE/Use Case Diagram.md",
+    "SE/UML Diagrams.md",
+    "SE/Sequence Diagram.md",
+    "SE/Statechart Diagram.md",
+    "SE/Class Diagram.md",
     "Database/DBMS/Queries/Data Manipulation Language.md",
-    "Database/DBMS/Languages/Relational Algebra.md",
     "Database/DBMS/Queries/Data Definition Language.md",
+    "Database/DBMS/Languages/Relational Algebra.md",
     "Database/DBMS/Queries/Null.md",
-    "Database/DBMS/Queries/Views.md",
-    "NodeJS/Streams.md",
-    "OS/OS Threades.md",
-    "OS/Operating Systems.md",
-    "Database/DBMS/Languages/Tuple Relation Calculus.md",
-    "Database/DBMS System/DBMS Design.md"
+    "Database/DBMS/Queries/Views.md"
   ]
 }

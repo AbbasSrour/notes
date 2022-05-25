@@ -36,6 +36,10 @@ LOG ON (NAME = '/<database-name>_log',
 				FILENAME ='/location/of/\<database-name>.ldf')
 GO
 ```
+Using pSQL:
+```sql
+create database <db-name> owner <owner-name> tablespace <tablespace-name>;
+```
 
 
 ## Table Creation

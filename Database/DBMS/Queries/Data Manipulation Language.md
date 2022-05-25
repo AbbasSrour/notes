@@ -154,13 +154,6 @@ The `some` clause means that if a value exists in the set of values of $F$ then 
 The `all` clause returns true if and only if the comparison is true for all elements of relation x, and false otherwise.
 
 
-### Nested Sub-Queries
-Every SQL statement returns a relation/set in the result, which can be anything ranging from [[Null|null]] to a single atomic value; this means that values can be replaced with an SQL statement. Nested operations are illegal if the returned value has a different data type to do the one it is being operated on with.
-```sql
-select *
-from relationX
-where attributeX > (select avg(attributeY) from relationY)
-```
 ### Division
 Division is an [[Relational Algebra#Division|relational algebra expression]] and can be translated into sql for R(A,B,C,D) and S(C,D) by using the query:
 ```sql
@@ -185,6 +178,49 @@ from R
 where not exists (select *
 									from v
 									where R.A=v.A)
+```
+
+### Join
+[[Relational Algebra#Operations#Join|Join]] operations take two relations and return as a result another relation, these additional operations are typically used as sub-query expressions in the `form` clause.  The *join condition* defines which tuples in the two relation match, and what attributes are present in the result of the join. While the *join type*  defines how tuples in each relation that do not match any tuple in the other relation (based on the join condition) are treated.
+
+#### Join Types
+##### Inner Join
+Inner join only includes tuples that are matched between the two relations.
+```sql 
+select attributeX
+from relationX Join relationY on relationX.attributeX = relationY.attributeX
+where <condition>
+```
+##### Left Outer Join
+Left outer join includes unmatched rows from the left table, the left outer join can be seen as inner join + unmatched rows of the left table. 
+```sql
+select attributeX
+from relationX Left Join relationY on relationX.attributeX = 
+																						relationY.attributeX
+where <condition>
+```
+##### Right Outer Join
+Right outer Join includes unmatched rows from the right table. The right outer join can be seen as inner join + the unmatched tuples of the right table.
+```sql
+select attributeX
+from relationX Right Join relationY on relationX.attributeX = 
+																						relationY.attributeX
+where <condition>
+```
+##### Full Outer Join
+The Full outer Join includes the matched rows between the two relations, and the unmatched rows from the two relations.
+```sql
+select attributeX
+from relationX Full Outer Join relationY on relationX.attributeX = 
+																					relationY.attributeX
+where <condition>
+```
+### Nested Sub-Queries
+Every SQL statement returns a relation/set in the result, which can be anything ranging from [[Null|null]] to a single atomic value; this means that values can be replaced with an SQL statement. Nested operations are illegal if the returned value has a different data type to do the one it is being operated on with.
+```sql
+select *
+from relationX
+where attributeX > (select avg(attributeY) from relationY)
 ```
 
 ## DB Modification
@@ -216,3 +252,8 @@ where ...
 ```
 ### Modifying DB With Views
 It is allowed to modify the data of a database using a [[Views|views]], but it becomes exponentially difficult and complex as a view gets more complex, hence updating a database using complex views is not allowed.
+
+## Transactions
+A transaction is a sequence of queries and update statements executed as a single unit. Transactions are started implicitly and terminated by either *commit work* which makes all updates of the transaction permanent in the database, or *rollback work* which undoes all updates performed by the transaction.
+
+If any step of a transaction fails, all work done by the transaction can be undone by *rollback work*. Rollback of incomplete transactions is done automatically in case of system failures. In most database systems, each SQL statement that executes successfully is automatically committed. Each transaction would then consist of only a single statement. Automatic commit can usually be turned off, allowing multi statement transactions, but how to so depends on the database system. 
