@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "613238dad572722a",
+        "id": "ea41c264f11c54a1",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SE/Use Case Diagram.md",
+            "file": "Development/TS Node Express Server/Middleware.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -42,7 +42,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -63,7 +63,6 @@
       {
         "id": "65f83784561ec0b8",
         "type": "tabs",
-        "dimension": 46.835443037974684,
         "children": [
           {
             "id": "bbec3599bf36f7f0",
@@ -71,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SE/Use Case Diagram.md",
+                "file": "Development/TS Node Express Server/Middleware.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +87,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "SE/Use Case Diagram.md",
+                "file": "Development/TS Node Express Server/Middleware.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -99,7 +98,7 @@
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
-                  "collapse-color-groups": false,
+                  "collapse-color-groups": true,
                   "colorGroups": [
                     {
                       "query": "path:ADS",
@@ -151,10 +150,10 @@
                   "lineSizeMultiplier": 1,
                   "collapse-forces": true,
                   "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
+                  "repelStrength": 9.91452991452991,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.22358674932011635,
+                  "scale": 0.18692716633268341,
                   "close": true
                 }
               }
@@ -166,18 +165,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SE/Use Case Diagram.md"
+                "file": "Development/TS Node Express Server/Middleware.md"
               }
             }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "29b36f273e258d73",
-        "type": "tabs",
-        "dimension": 53.16455696202531,
-        "children": [
+          },
           {
             "id": "e1d0699e9b8775ff",
             "type": "leaf",
@@ -186,23 +177,24 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
     "width": 284
   },
-  "active": "613238dad572722a",
+  "active": "ea41c264f11c54a1",
   "lastOpenFiles": [
-    "SE/Use Case Diagram.md",
-    "SE/UML Diagrams.md",
-    "SE/Sequence Diagram.md",
-    "SE/Statechart Diagram.md",
-    "SE/Class Diagram.md",
-    "Database/DBMS/Queries/Data Manipulation Language.md",
-    "Database/DBMS/Queries/Data Definition Language.md",
-    "Database/DBMS/Languages/Relational Algebra.md",
-    "Database/DBMS/Queries/Null.md",
-    "Database/DBMS/Queries/Views.md"
+    "Development/TS Node Express Server/Middleware.md",
+    "Development/TS Node Express Server/User Auth.md",
+    "Development/TS Node Express Server/Testing.md",
+    "Development/TS Node Express Server/Swagger.md",
+    "Development/TS Node Express Server/Schema.md",
+    "Development/TS Node Express Server/Project Setup.md",
+    "Development/TS Node Express Server/Logging.md",
+    "Development/TS Node Express Server/JWT.md",
+    "Development/TS Node Express Server/Index.md",
+    "Development/TS Node Express Server/Errors.md"
   ]
 }

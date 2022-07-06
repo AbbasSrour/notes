@@ -1,8 +1,8 @@
 {
   "baseFontSize": 17,
-  "theme": "moonstone",
+  "theme": "obsidian",
   "translucency": false,
-  "cssTheme": "Bubble Space",
+  "cssTheme": "Things",
   "enabledCssSnippets": [
     "Tokyo Memmories"
   ]

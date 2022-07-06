@@ -1,0 +1,2 @@
+### Email Verification
+Implementing the email verification will allow the api to check that registering users are real and aren't just bots. This functionality requires several modifications, mainly a new verified column in the user model.

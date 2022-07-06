@@ -1,5 +1,5 @@
 ## ER Model
-An Entity Relationship (ER) Diagram is a type of flowchart that illustrates how [[Entities]]  such as people, objects or concepts relate to each other within a [[DBMS]].
+An Entity Relationship (ER) Diagram is a type of flowchart that illustrates how [[Entities]]  such as people, objects or concepts relate to each other within a [[DBMS/Database/Database]]. The ER diagram is used as the conceptual schema of the [[DBMS/Database/Database]].
 
 ## Representation
 In an ER diagram each component is represented in a distinct shape and connected together.
