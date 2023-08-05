@@ -1,5 +1,5 @@
 {
-  "folder": "Day Planner",
+  "folder": "Journal",
   "format": "dddd, MMMM Do YYYY",
-  "template": "Templates/dailyNoteTemplate"
+  "template": "Templates/Daily Planner 3"
 }

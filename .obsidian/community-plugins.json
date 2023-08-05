@@ -1,5 +1,15 @@
 [
   "calendar",
   "obsidian-admonition",
-  "obsidian-style-settings"
+  "obsidian-style-settings",
+  "obsidian-completr",
+  "obsidian-day-planner",
+  "cm-editor-syntax-highlight-obsidian",
+  "obsidian-latex-suite",
+  "quick-latex",
+  "templater-obsidian",
+  "dataview",
+  "buttons",
+  "obsidian-statusbar-pomo",
+  "google-calendar"
 ]
