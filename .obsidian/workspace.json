@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Jetbrains Setup.md",
-                "mode": "preview",
+                "file": "Todo/MOF.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Jetbrains Setup.md",
+                "file": "Todo/MOF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Jetbrains Setup.md"
+                "file": "Todo/MOF.md"
               }
             }
           },
@@ -136,7 +136,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Jetbrains Setup.md",
+                "file": "Todo/MOF.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -229,8 +229,10 @@
   },
   "active": "1fd26bb3bbafb355",
   "lastOpenFiles": [
-    "Templates/Daily Planner.md",
     "Notes/Jetbrains Setup.md",
+    "Todo/MOF.md",
+    "Todo",
+    "Templates/Daily Planner.md",
     "Notes",
     "Templates/Daily Planner 2.md",
     "Untitled.md",
@@ -261,7 +263,6 @@
     "SE/Use Case Diagram.md",
     "SE/UML Diagrams.md",
     "SE/Statechart Diagram.md",
-    "SE/Sequence Diagram.md",
-    "SE/Requirement Specification.md"
+    "SE/Sequence Diagram.md"
   ]
 }
