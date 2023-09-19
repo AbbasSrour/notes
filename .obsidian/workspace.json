@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Todo/MOF.md",
+                "file": "Misc/A Well Needed Rethink.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo/MOF.md",
+                "file": "Misc/A Well Needed Rethink.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo/MOF.md"
+                "file": "Misc/A Well Needed Rethink.md"
               }
             }
           },
@@ -136,7 +136,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Todo/MOF.md",
+                "file": "Misc/A Well Needed Rethink.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -229,13 +229,33 @@
   },
   "active": "1fd26bb3bbafb355",
   "lastOpenFiles": [
-    "Notes/Jetbrains Setup.md",
+    "Misc/pf4-vscode.png",
+    "Misc/pf7-vscode.png",
+    "Misc/pf6-vscode.png",
+    "Misc/pf5-vscode.png",
+    "Misc/pf3-vscode.png",
+    "Misc/pf2-vscode.png",
+    "Misc/pf1-vscode.png",
+    "Misc/pf7-success.png",
+    "Misc/pf7-error.png",
+    "Misc/pf7-pycharm.png",
+    "Misc/pf6-error.png",
+    "Misc/Jetbrains Setup.md",
+    "Misc/A Well Needed Rethink.md",
+    "Misc/Lazygit.md",
+    "home/ares/Pictures/Screenshots/pycharm1.png.md",
+    "home/ares/Pictures/Screenshots",
+    "home/ares/Pictures",
+    "home/ares",
+    "home",
+    "Monitoring/OpenTelemetry.md",
+    "Monitoring/Observability.md",
     "Todo/MOF.md",
+    "Monitoring",
     "Todo",
     "Templates/Daily Planner.md",
-    "Notes",
+    "Misc",
     "Templates/Daily Planner 2.md",
-    "Untitled.md",
     "Templates/Add Events.md",
     "Journal/Thursday, August 3rd 2023.md",
     "Day Planner-20230803.md",
@@ -244,25 +264,16 @@
     "Day Planner",
     "Untitled 1.md",
     "Scripts/daily_planner.template",
-    "Scripts",
-    "Scriptes",
     "Today.md",
-    "Day Planners",
     "Untitled 2.md",
     "Templates/Daily Planner Template.md",
     "templates/daily.template.md",
     "templates/Daily Planner.md",
-    "Templates",
     "2023-08-03.md",
     "ADS/B-Tree Family.md",
     "ADS/Time Complexity.md",
     "ADS/Big O Notation.md",
     "DBMS/Database/Languages/Domain Relation Calculus.md",
-    "ADS/Hash Tables.md",
-    "DBMS/DBMS System/DBMS Design.md",
-    "SE/Use Case Diagram.md",
-    "SE/UML Diagrams.md",
-    "SE/Statechart Diagram.md",
-    "SE/Sequence Diagram.md"
+    "ADS/Hash Tables.md"
   ]
 }
