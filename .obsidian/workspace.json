@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/A Well Needed Rethink.md",
+                "file": "Todo/MOF.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/A Well Needed Rethink.md",
+                "file": "Todo/MOF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc/A Well Needed Rethink.md"
+                "file": "Todo/MOF.md"
               }
             }
           },
@@ -136,7 +136,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Misc/A Well Needed Rethink.md",
+                "file": "Todo/MOF.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -229,6 +229,8 @@
   },
   "active": "1fd26bb3bbafb355",
   "lastOpenFiles": [
+    "Misc/A Well Needed Rethink.md",
+    "home/ares/Pictures/Screenshots/pycharm1.png.md",
     "Misc/pf4-vscode.png",
     "Misc/pf7-vscode.png",
     "Misc/pf6-vscode.png",
@@ -239,11 +241,8 @@
     "Misc/pf7-success.png",
     "Misc/pf7-error.png",
     "Misc/pf7-pycharm.png",
-    "Misc/pf6-error.png",
     "Misc/Jetbrains Setup.md",
-    "Misc/A Well Needed Rethink.md",
     "Misc/Lazygit.md",
-    "home/ares/Pictures/Screenshots/pycharm1.png.md",
     "home/ares/Pictures/Screenshots",
     "home/ares/Pictures",
     "home/ares",
