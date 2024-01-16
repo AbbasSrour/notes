@@ -1,8 +1,23 @@
 # Forms
 ## Test
 - [ ] Q2 Form With Add Groups
+- [ ] A14 Non Life and unit linked
+- [ ] Test that the dynamic keys for fields don't conflict with pre existing dynamic keys
+- [ ] A21 and change dynamic fields to groups because it allows for same levels
+- [ ] A20 upload files
+- [ ] A13 annual difference 
+- [ ] Test the system if we have more than 100 dynamic fields or dynamic groups
+- [ ] A16
+- [ ] A6
+- [ ] A7
+- [ ] A8
+- [ ] Percentage And Rate
 
 ## Implement
 
-- [ ] To fix the issues where forms can have bugs in there template without having to delete the old forms, we can have it so that we implement a route, where we send the form id and the form type, and package, we will create a new empty form replace all the data in the new form with the data of the old form but for the sections. Where, for the sections we will go over all the fields in the old form and copy their values to new form. We will also need to go over the add groups and fields and fix accordingly, this can help alleviate the issue with dynamic groups, fields, algorithms, field names, disabled... But will not help when we have an issue where the ids are wrong, this is gonna need manual intervention.
+- [ ] We need to make sure the operation is always safe to evaluate
+
+
+
+
 
