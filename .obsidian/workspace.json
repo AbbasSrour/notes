@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Todo/MOF.md",
+                "file": "Calculus/Rate  Of Change.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo/MOF.md",
+                "file": "Calculus/Rate  Of Change.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo/MOF.md"
+                "file": "Calculus/Rate  Of Change.md"
               }
             }
           },
@@ -136,7 +136,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Todo/MOF.md",
+                "file": "Calculus/Rate  Of Change.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -229,9 +229,14 @@
   },
   "active": "1fd26bb3bbafb355",
   "lastOpenFiles": [
-    "MISC/Senior Developer Notes.md",
+    "Discrete/DIvisibilty And Modularity.md",
+    "Calculus/Rate  Of Change.md",
+    "Untitled",
+    "Misc/Senior Developer Notes.md",
+    "Calculus",
     "Todo/MOF.md",
-    "MISC",
+    "Journal/Thursday, August 3rd 2023.md",
+    "Misc",
     "Misc/A Well Needed Rethink.md",
     "home/ares/Pictures/Screenshots/pycharm1.png.md",
     "Misc/pf4-vscode.png",
@@ -258,11 +263,8 @@
     "Misc",
     "Templates/Daily Planner 2.md",
     "Templates/Add Events.md",
-    "Journal/Thursday, August 3rd 2023.md",
     "Day Planner-20230803.md",
-    "Journal",
     "Day Planner/Thursday, August 3rd 2023.md",
-    "Day Planner",
     "Untitled 1.md",
     "Today.md",
     "Untitled 2.md",
@@ -272,8 +274,6 @@
     "2023-08-03.md",
     "ADS/B-Tree Family.md",
     "ADS/Time Complexity.md",
-    "ADS/Big O Notation.md",
-    "DBMS/Database/Languages/Domain Relation Calculus.md",
-    "ADS/Hash Tables.md"
+    "ADS/Big O Notation.md"
   ]
 }
