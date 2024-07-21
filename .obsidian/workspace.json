@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calculus/Rate  Of Change.md",
+                "file": "DBMS/DBMS System/DBMS Design.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calculus/Rate  Of Change.md",
+                "file": "DBMS/DBMS System/DBMS Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calculus/Rate  Of Change.md"
+                "file": "DBMS/DBMS System/DBMS Design.md"
               }
             }
           },
@@ -114,9 +114,33 @@
               "type": "timeline",
               "state": {}
             }
+          },
+          {
+            "id": "05cb0ff84d1607fc",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "83b1d2b3dbd4bad8",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "1a9bda09c705d068",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       },
       {
         "id": "7379d8d154bc8ffe",
@@ -136,7 +160,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Calculus/Rate  Of Change.md",
+                "file": "DBMS/DBMS System/DBMS Design.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -208,11 +232,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 321.5
+    "width": 463.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -224,13 +249,20 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "templater-obsidian:Templater": false,
-      "obsidian-statusbar-pomo:Start pomodoro": false
+      "obsidian-statusbar-pomo:Start pomodoro": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false,
+      "copilot:Copilot Chat": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
     }
   },
   "active": "1fd26bb3bbafb355",
   "lastOpenFiles": [
-    "Discrete/DIvisibilty And Modularity.md",
+    "smart-chats/UNTITLED CHAT 2024-07-21 21 15 26.md",
+    "smart-chats",
+    "DBMS/DBMS System/DBMS Design.md",
     "Calculus/Rate  Of Change.md",
+    "Discrete/DIvisibilty And Modularity.md",
     "Untitled",
     "Misc/Senior Developer Notes.md",
     "Calculus",
@@ -260,7 +292,6 @@
     "Monitoring",
     "Todo",
     "Templates/Daily Planner.md",
-    "Misc",
     "Templates/Daily Planner 2.md",
     "Templates/Add Events.md",
     "Day Planner-20230803.md",
@@ -272,8 +303,6 @@
     "templates/daily.template.md",
     "templates/Daily Planner.md",
     "2023-08-03.md",
-    "ADS/B-Tree Family.md",
-    "ADS/Time Complexity.md",
-    "ADS/Big O Notation.md"
+    "ADS/B-Tree Family.md"
   ]
 }
