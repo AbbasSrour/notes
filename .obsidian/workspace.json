@@ -79,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 288.5
+    "width": 453.5
   },
   "right": {
     "id": "29baa0b6d6967c5e",
@@ -260,18 +260,19 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "1fd26bb3bbafb355",
+  "active": "1a9bda09c705d068",
   "lastOpenFiles": [
-    "DBMS/Database/Database.md",
-    "DBMS/Database/Queries/Data Definition Language.md",
-    "DBMS/DBMS System/DBMS Design.md",
     "smart-chats/UNTITLED CHAT 2024-07-21 21 32 14.md",
-    "smart-chats/UNTITLED CHAT 2024-07-21 21 22 26.md",
+    "smart-chats/my first note.md",
+    "DBMS/Database/Queries/Data Definition Language.md",
+    "smart-chats",
     "smart-chats/UNTITLED CHAT 2024-07-21 21 15 26.md",
+    "DBMS/Database/Database.md",
+    "DBMS/DBMS System/DBMS Design.md",
+    "smart-chats/UNTITLED CHAT 2024-07-21 21 22 26.md",
     "smart-chats",
     "Calculus/Rate  Of Change.md",
     "Discrete/DIvisibilty And Modularity.md",
-    "Untitled",
     "Misc/Senior Developer Notes.md",
     "Calculus",
     "Todo/MOF.md",
@@ -305,8 +306,6 @@
     "Day Planner-20230803.md",
     "Day Planner/Thursday, August 3rd 2023.md",
     "Untitled 1.md",
-    "Today.md",
-    "Untitled 2.md",
-    "Templates/Daily Planner Template.md"
+    "Today.md"
   ]
 }

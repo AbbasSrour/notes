@@ -904,6 +904,7 @@ authorization
 allowed
 allocate
 accurate
+assistant
 where
 worst
 when
@@ -1106,6 +1107,7 @@ Schema
 STUDENT
 SQL
 SDL
+See
 loops
 loop
 link
@@ -1164,6 +1166,7 @@ likely
 lockups
 lengths
 level
+logs
 but
 by
 best
