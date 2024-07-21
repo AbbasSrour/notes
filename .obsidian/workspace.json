@@ -73,8 +73,17 @@
               "type": "smart-connections-chat-view",
               "state": {}
             }
+          },
+          {
+            "id": "05cb0ff84d1607fc",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -125,14 +134,6 @@
             }
           },
           {
-            "id": "05cb0ff84d1607fc",
-            "type": "leaf",
-            "state": {
-              "type": "copilot-chat-view",
-              "state": {}
-            }
-          },
-          {
             "id": "83b1d2b3dbd4bad8",
             "type": "leaf",
             "state": {
@@ -141,7 +142,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "7379d8d154bc8ffe",
@@ -258,7 +259,7 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "a174f4000dc4d363",
+  "active": "05cb0ff84d1607fc",
   "lastOpenFiles": [
     "DBMS/Database/Queries/Data Definition Language.md",
     "Untitled.md",
