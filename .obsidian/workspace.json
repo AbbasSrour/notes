@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DBMS/Database/Queries/Data Definition Language.md",
+                "file": "Calculus/Rate  Of Change.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -74,12 +74,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 425.5
+    "width": 379.5
   },
   "right": {
     "id": "29baa0b6d6967c5e",
@@ -96,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DBMS/Database/Queries/Data Definition Language.md",
+                "file": "Calculus/Rate  Of Change.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DBMS/Database/Queries/Data Definition Language.md"
+                "file": "Calculus/Rate  Of Change.md"
               }
             }
           },
@@ -142,7 +141,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "7379d8d154bc8ffe",
@@ -163,7 +162,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DBMS/Database/Queries/Data Definition Language.md",
+                "file": "Calculus/Rate  Of Change.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -240,8 +239,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 359.5,
-    "collapsed": true
+    "width": 359.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -260,10 +258,10 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "1a9bda09c705d068",
+  "active": "a174f4000dc4d363",
   "lastOpenFiles": [
-    "Untitled.md",
     "DBMS/Database/Queries/Data Definition Language.md",
+    "Untitled.md",
     "smart-chats/UNTITLED CHAT 2024-07-21 21 32 14.md",
     "smart-chats/my first note.md",
     "smart-chats",
