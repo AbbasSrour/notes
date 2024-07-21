@@ -23,7 +23,7 @@
   "file_exclusions": "Untitled",
   "folder_exclusions": "smart-chats",
   "show_full_path": false,
-  "expanded_view": true,
+  "expanded_view": false,
   "language": "en",
   "log_render": false,
   "log_render_files": false,
@@ -36,7 +36,7 @@
     "protocol": "http",
     "hostname": "localhost",
     "port": 11434,
-    "path": "",
+    "path": "/api/chat",
     "streaming": true,
     "max_input_tokens": 2000
   },
