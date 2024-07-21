@@ -10,7 +10,7 @@
   "smart_chat_folder_last": "smart-chats",
   "local_embedding_max_tokens": 2048,
   "embedding_file_per_note": false,
-  "chat_model_platform_key": "custom_api",
+  "chat_model_platform_key": "custom_local",
   "open_router": {},
   "embed_input_min_chars": 100,
   "multi_heading_blocks": true,
@@ -46,7 +46,7 @@
     "description": "Custom API (OpenAI format)",
     "type": "API",
     "protocol": "http",
-    "hostname": "127.0.0.1:11434",
+    "hostname": "localhost:11434",
     "api_key": "something"
   },
   "openai": {
