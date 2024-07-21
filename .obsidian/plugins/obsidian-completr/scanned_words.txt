@@ -436,6 +436,10 @@ sub
 stand
 smallint
 sql
+slope
+specific
+says
+straight
 that
 takes
 time
@@ -594,6 +598,8 @@ external
 extracted
 embedded
 entered
+equation
+equal
 computer
 calls
 costs
@@ -802,6 +808,7 @@ independence
 indices
 int
 integer
+idea
 an
 algorithm
 as
@@ -1060,6 +1067,8 @@ fully
 floating
 float
 follow
+formula
+fundamental
 Subroutine
 Start
 Selection
@@ -1108,6 +1117,7 @@ STUDENT
 SQL
 SDL
 See
+Slope
 loops
 loop
 link
@@ -1217,6 +1227,7 @@ bits
 branch
 batches
 basic
+behind
 Worst
 We
 Where
@@ -1534,6 +1545,7 @@ prohibit
 provided
 pSQL
 protocols
+passes
 Family
 Find
 Finish
@@ -1548,12 +1560,14 @@ Functional
 For
 Fixed
 Floating
+Formula
 keeps
 keys
 key
 kept
 known
 knowing
+know
 have
 half
 has
@@ -1620,6 +1634,7 @@ Proximity
 Provide
 Physical
 Programs
+Point
 It
 Ids
 Insert
@@ -1709,6 +1724,7 @@ valid
 various
 views
 varchar
+vertical
 Leaf
 Link
 Lead
