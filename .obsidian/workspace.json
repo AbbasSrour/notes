@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Precalculus/Point Slope Formula.md",
+                "file": "Calculus/Rate  Of Change.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Precalculus/Point Slope Formula.md",
+                "file": "Calculus/Rate  Of Change.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Precalculus/Point Slope Formula.md"
+                "file": "Calculus/Rate  Of Change.md"
               }
             }
           },
@@ -162,7 +162,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Precalculus/Point Slope Formula.md",
+                "file": "Calculus/Rate  Of Change.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -260,8 +260,8 @@
   },
   "active": "1fd26bb3bbafb355",
   "lastOpenFiles": [
-    "Calculus/Rate  Of Change.md",
     "Precalculus/Point Slope Formula.md",
+    "Calculus/Rate  Of Change.md",
     "Precalculus",
     "DBMS/Database/Queries/Data Definition Language.md",
     "Untitled.md",
