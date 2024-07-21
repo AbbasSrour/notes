@@ -34,7 +34,7 @@
     "description": "Custom Local (OpenAI format)",
     "type": "API",
     "protocol": "http",
-    "hostname": "127.0.0.1",
+    "hostname": "localhost",
     "port": 11434,
     "path": "",
     "streaming": true,
