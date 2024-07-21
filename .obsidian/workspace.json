@@ -79,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 453.5
+    "width": 425.5
   },
   "right": {
     "id": "29baa0b6d6967c5e",
@@ -262,9 +262,10 @@
   },
   "active": "1a9bda09c705d068",
   "lastOpenFiles": [
+    "Untitled.md",
+    "DBMS/Database/Queries/Data Definition Language.md",
     "smart-chats/UNTITLED CHAT 2024-07-21 21 32 14.md",
     "smart-chats/my first note.md",
-    "DBMS/Database/Queries/Data Definition Language.md",
     "smart-chats",
     "smart-chats/UNTITLED CHAT 2024-07-21 21 15 26.md",
     "DBMS/Database/Database.md",

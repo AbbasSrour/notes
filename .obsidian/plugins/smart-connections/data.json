@@ -37,7 +37,7 @@
     "hostname": "localhost",
     "port": 11434,
     "path": "/api/chat",
-    "streaming": true,
+    "streaming": false,
     "max_input_tokens": 2000
   },
   "free_chat_uses": 1,
