@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/Step Ahead Requirments.md",
+                "file": "Work/Ecommerce.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 621.5
+    "width": 512.5
   },
   "right": {
     "id": "29baa0b6d6967c5e",
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/Step Ahead Requirments.md",
+                "file": "Work/Ecommerce.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/Step Ahead Requirments.md"
+                "file": "Work/Ecommerce.md"
               }
             }
           },
@@ -162,7 +162,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Work/Step Ahead Requirments.md",
+                "file": "Work/Ecommerce.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -259,8 +259,9 @@
   },
   "active": "1fd26bb3bbafb355",
   "lastOpenFiles": [
-    "Calculus/Rate  Of Change.md",
     "Work/Step Ahead Requirments.md",
+    "Work/Ecommerce.md",
+    "Calculus/Rate  Of Change.md",
     "Work",
     "Untitled.md",
     "Precalculus/Point Slope Formula.md",
@@ -303,7 +304,6 @@
     "Templates/Daily Planner.md",
     "Templates/Daily Planner 2.md",
     "Templates/Add Events.md",
-    "Day Planner-20230803.md",
-    "Day Planner/Thursday, August 3rd 2023.md"
+    "Day Planner-20230803.md"
   ]
 }
