@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calculus/Rate  Of Change.md",
+                "file": "Work/Step Ahead Requirments.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -82,8 +82,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -104,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calculus/Rate  Of Change.md",
+                "file": "Work/Step Ahead Requirments.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calculus/Rate  Of Change.md"
+                "file": "Work/Step Ahead Requirments.md"
               }
             }
           },
@@ -163,7 +162,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Calculus/Rate  Of Change.md",
+                "file": "Work/Step Ahead Requirments.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -253,7 +252,6 @@
       "templates:Insert template": false,
       "templater-obsidian:Templater": false,
       "obsidian-statusbar-pomo:Start pomodoro": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false,
       "copilot:Copilot Chat": false,
       "smart-connections:Open: View Smart Connections": false,
       "smart-connections:Open: Smart Chat Conversation": false
@@ -261,11 +259,13 @@
   },
   "active": "1fd26bb3bbafb355",
   "lastOpenFiles": [
-    "Precalculus/Point Slope Formula.md",
     "Calculus/Rate  Of Change.md",
+    "Work/Step Ahead Requirments.md",
+    "Work",
+    "Untitled.md",
+    "Precalculus/Point Slope Formula.md",
     "Precalculus",
     "DBMS/Database/Queries/Data Definition Language.md",
-    "Untitled.md",
     "smart-chats/UNTITLED CHAT 2024-07-21 21 32 14.md",
     "smart-chats/my first note.md",
     "smart-chats",
@@ -300,12 +300,10 @@
     "home",
     "Monitoring/OpenTelemetry.md",
     "Monitoring/Observability.md",
-    "Monitoring",
     "Templates/Daily Planner.md",
     "Templates/Daily Planner 2.md",
     "Templates/Add Events.md",
     "Day Planner-20230803.md",
-    "Day Planner/Thursday, August 3rd 2023.md",
-    "Untitled 1.md"
+    "Day Planner/Thursday, August 3rd 2023.md"
   ]
 }
