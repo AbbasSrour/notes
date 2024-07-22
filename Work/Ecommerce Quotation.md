@@ -7,19 +7,19 @@ Through out the project timeline the contracted party (Ciatek IT & Software Serv
 - Create A Tailored Platform: Design and implement a secure, fault tolerant and fast platform based on the research and analysis done for your business that will cater to your business customers. The platform should include the following aspects out of the box:
 	- Secure authentication and authorization mechanism with what it features it entitles (logging in, registration for customers, resetting and changing passwords...).
 	- Robust user and customer management system.
-	- Comprehensive product management solutions with variations, collections and sub-collections,  discounts, price management...
-	- 
+	- Comprehensive product management solutions with variations, collections and sub-collections, price management, tags...
+	- Implement a promotion system to allow your business to roll out promotions and discounts for your customers.
+	- Multi regional support which will allow the system to cater to your customers across multiple regions.
+	- Shipping and delivery support 
 
 - Product Management and Content Creation: We'll empower you with a user-friendly system for managing product listings and crafting compelling content to attract and engage customers.
 
  
- - 
-Seamless Payment Processing: Secure and user-friendly payment gateways will be integrated for a smooth checkout experience, boosting customer satisfaction.
+ - Seamless Payment Processing: Secure and user-friendly payment gateways will be integrated for a smooth checkout experience, boosting customer satisfaction.
 
+- Rigorous System Testing and Deployment: We'll conduct thorough testing to ensure the system's functionality, security, and optimal performance before a seamless deployment.
 
-
-Rigorous System Testing and Deployment: We'll conduct thorough testing to ensure the system's functionality, security, and optimal performance before a seamless deployment.
-Comprehensive Team Training: Your team will receive in-depth training to confidently manage and leverage the ecommerce system for ongoing success.
+- Comprehensive Team Training: Your team will receive in-depth training to confidently manage and leverage the ecommerce system for ongoing success.
 
 Deliverables and Support
 
