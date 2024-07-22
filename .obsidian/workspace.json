@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/Ecommerce.md",
+                "file": "Work/Ecommerce Quotation.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -82,7 +82,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -103,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/Ecommerce.md",
+                "file": "Work/Ecommerce Quotation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/Ecommerce.md"
+                "file": "Work/Ecommerce Quotation.md"
               }
             }
           },
@@ -162,7 +163,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Work/Ecommerce.md",
+                "file": "Work/Ecommerce Quotation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -260,7 +261,7 @@
   "active": "1fd26bb3bbafb355",
   "lastOpenFiles": [
     "Work/Step Ahead Requirments.md",
-    "Work/Ecommerce.md",
+    "Work/Ecommerce Quotation.md",
     "Calculus/Rate  Of Change.md",
     "Work",
     "Untitled.md",
