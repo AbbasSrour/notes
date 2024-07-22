@@ -82,11 +82,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 379.5
+    "width": 621.5
   },
   "right": {
     "id": "29baa0b6d6967c5e",
