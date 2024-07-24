@@ -22,6 +22,7 @@ Through out the project timeline the contracted party (Ciatek IT & Software Serv
 	- Profile and user information management, including requisting 
 	- Viewing, interacting and adding products listed on the webapp to cart.
 	- Creating orders from items added to the cart.
+	- The system will include multi language support.
 
 - Rigorous System Testing and Deployment: We'll conduct thorough testing to ensure the system's functionality, security, and optimal performance before a seamless deployment.
 
