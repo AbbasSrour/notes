@@ -19,11 +19,11 @@ Through out the project timeline the contracted party (Ciatek IT & Software Serv
 - Product Management and Content Creation: We'll empower you with a user-friendly system for managing the system, with dashboards and real time analytics.
 
 - Storefront For The Platform: A responsive and intuitive webapp that is accessible to your customer on nearly any device or platform as a storefront that will utilize the created platform features and capabilities allowing for and not restricted to:
-	- Profile and user information management, including requisting 
-	- Viewing, interacting and adding products listed on the webapp to cart.
+	- Profile and user information management. 
+	- Viewing, interacting and adding products listed to the cart.
 	- Creating orders from items added to the cart.
 	- The system will include multi language support.
 
 - Rigorous System Testing and Deployment: We'll conduct thorough testing to ensure the system's functionality, security, and optimal performance before a seamless deployment.
 
-- Comprehensive Team Training: Your team will receive in-depth training to confidently manage and leverage the ecommerce system for ongoing success.
+- Comprehensive Team Training: Your team will receive in-depth training to confidently manage and leverage the e-commerce system for ongoing success.
