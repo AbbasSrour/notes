@@ -7,7 +7,7 @@ Through out the project timeline the contracted party (Ciatek IT & Software Serv
 - Create A Tailored Platform: Design and implement a secure, fault tolerant and fast platform based on the research and analysis done for your business that will cater to your business customers. The platform should include the following aspects out of the box:
 	- Secure authentication and authorization mechanism with what it features it entitles (logging in, registration for customers, resetting and changing passwords...).
 	- Robust user and customer management system with features like customer groups, user roles, scalability, security, and potential integration with CRM and email marketing platforms.
-	- Comprehensive product management solutions with variations, collections and sub-collections, price management, tags...
+	- Comprehensive product management solutions with variations, collections, sub-collections, price management, tags...
 	- Promotion system to allow your business to roll out promotions and discounts for your customers.
 	- Multi regional support allowing the system to cater to your customers across multiple regions.
 	- Comprehensive order fulfillment system with the ability to add multiple shipping/delivery methods, shipping/delivery rates, and eligibility checker.
