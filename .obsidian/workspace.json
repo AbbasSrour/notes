@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/Ecommerce Quotation.md",
+                "file": "Work/Ciatek Website.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 512.5,
-    "collapsed": true
+    "width": 512.5
   },
   "right": {
     "id": "29baa0b6d6967c5e",
@@ -104,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/Ecommerce Quotation.md",
+                "file": "Work/Ciatek Website.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/Ecommerce Quotation.md"
+                "file": "Work/Ciatek Website.md"
               }
             }
           },
@@ -163,7 +162,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Work/Ecommerce Quotation.md",
+                "file": "Work/Ciatek Website.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -261,8 +260,9 @@
   },
   "active": "1fd26bb3bbafb355",
   "lastOpenFiles": [
-    "Work/Step Ahead Requirments.md",
     "Work/Ecommerce Quotation.md",
+    "Work/Ciatek Website.md",
+    "Work/Step Ahead Requirments.md",
     "Calculus/Rate  Of Change.md",
     "Work",
     "Untitled.md",
@@ -305,7 +305,6 @@
     "Monitoring/Observability.md",
     "Templates/Daily Planner.md",
     "Templates/Daily Planner 2.md",
-    "Templates/Add Events.md",
-    "Day Planner-20230803.md"
+    "Templates/Add Events.md"
   ]
 }
