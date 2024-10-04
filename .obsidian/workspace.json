@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/Ciatek Website.md",
+                "file": "Work/Galoper ERP.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/Ciatek Website.md",
+                "file": "Work/Galoper ERP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/Ciatek Website.md"
+                "file": "Work/Galoper ERP.md"
               }
             }
           },
@@ -162,7 +162,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Work/Ciatek Website.md",
+                "file": "Work/Galoper ERP.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -260,9 +260,10 @@
   },
   "active": "1fd26bb3bbafb355",
   "lastOpenFiles": [
+    "Work/Ciatek Website.md",
+    "Work/Galoper ERP.md",
     "Work/Ecommerce Quotation.md",
     "Work/Step Ahead Requirments.md",
-    "Work/Ciatek Website.md",
     "Calculus/Rate  Of Change.md",
     "Work",
     "Untitled.md",
@@ -304,7 +305,6 @@
     "Monitoring/OpenTelemetry.md",
     "Monitoring/Observability.md",
     "Templates/Daily Planner.md",
-    "Templates/Daily Planner 2.md",
-    "Templates/Add Events.md"
+    "Templates/Daily Planner 2.md"
   ]
 }
