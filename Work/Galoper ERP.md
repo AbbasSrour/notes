@@ -1,4 +1,4 @@
-- [x] Abstract loading items for edit pages in the `combobox` possible solution is by adding a `useEffect` while `nextPageExists` is true with `loadMoreItems` => _resolved by adding QueryCombobox_
+- [x] Abstract loading items for edit pages in the `combobox` possible solution is by adding a `useEffect` while `nextPageExists` is true with `loadMoreItems` => resolved by adding `QueryCombobox`
 - [ ] Abstract form details section footer
 - [ ] Abstract form details section header
 - [ ] Abstract disabling form fields using the `useForm` hook based on status and page
