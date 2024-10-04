@@ -1,3 +1,17 @@
-
-
+- [x] Abstract loading items for edit pages in the `combobox` possible solution is by adding a `useEffect` while `nextPageExists` is true with `loadMoreItems` => _resolved by adding QueryCombobox_
+- [ ] Abstract form details section footer
+- [ ] Abstract form details section header
+- [ ] Abstract disabling form fields using the `useForm` hook based on status and page
+- [ ] Add a hook that initializes that form `status`, `documentName`, and `id`
+- [ ] Make `Datatable` use the `DatatableRrovider` by default
+- [ ] Extend `useFieldArray` hook by adding default values and making it add the default values when the function is executed with empty values
+- [ ] Rework `Datatable` context menu
+- [ ] Add a component for date field
+- [ ] Fix system action button id for form submit 
+- [ ] Stack `tooltip` messages
+- [ ] Make fields more clear on disable state
+- [ ] Abstract the blur of the form details section fields
+- [ ] Add link functionality to the system action
+- [ ] Rename system action
+- [ ] Add an auto recalculate for `useForm` where the fields are specified and the form is recalculated when the fields change so that we don't we have to add the hook on every field
 	
