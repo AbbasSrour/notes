@@ -253,16 +253,16 @@
       "templates:Insert template": false,
       "templater-obsidian:Templater": false,
       "obsidian-statusbar-pomo:Start pomodoro": false,
-      "copilot:Copilot Chat": false,
       "smart-connections:Open: View Smart Connections": false,
-      "smart-connections:Open: Smart Chat Conversation": false
+      "smart-connections:Open: Smart Chat Conversation": false,
+      "copilot:Copilot Chat": false
     }
   },
   "active": "1fd26bb3bbafb355",
   "lastOpenFiles": [
     "Work/Ecommerce Quotation.md",
-    "Work/Ciatek Website.md",
     "Work/Step Ahead Requirments.md",
+    "Work/Ciatek Website.md",
     "Calculus/Rate  Of Change.md",
     "Work",
     "Untitled.md",
