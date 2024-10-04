@@ -8,7 +8,7 @@
 - [ ] Rework `Datatable` context menu
 - [ ] Add a component for date field
 - [ ] Fix system action button id for form submit 
-- [ ] Stack `tooltip` messages
+- [ ] Stack `tooltip` messages in `FormItem` and `Button`
 - [ ] Make fields more clear on disable state
 - [ ] Abstract the blur of the form details section fields
 - [ ] Add link functionality to the system action
