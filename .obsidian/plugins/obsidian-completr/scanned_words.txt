@@ -70,6 +70,8 @@ Rigorous
 Requirments
 Registration
 Remove
+Rework
+Rename
 Model
 Machine
 MM
@@ -96,6 +98,7 @@ Mappings
 Manipulation
 Multi
 Meetings
+Make
 of
 or
 one
@@ -322,6 +325,9 @@ mcq
 minths
 market
 midterm
+menu
+messages
+modules
 Access
 Average
 Analysis
@@ -366,6 +372,7 @@ Assessment
 Advanced
 Automated
 Attendance
+Abstract
 specifies
 statements
 set
@@ -517,6 +524,8 @@ session
 shoulld
 schedule
 settings
+status
+submit
 that
 takes
 time
@@ -846,6 +855,7 @@ certificate
 course
 curiculum
 cannot
+context
 is
 instruction
 instance
@@ -933,6 +943,8 @@ including
 interacting
 items
 instructors
+initializes
+infers
 an
 algorithm
 as
@@ -1053,6 +1065,7 @@ attendence
 adds
 approve
 approves
+action
 where
 worst
 when
@@ -1224,6 +1237,7 @@ fault
 fulfillment
 fitness
 final
+footer
 Subroutine
 Start
 Selection
@@ -1281,6 +1295,7 @@ Storefront
 Survey
 Send
 Should
+Stack
 loops
 loop
 link
@@ -1347,6 +1362,8 @@ listing
 listed
 lebanon
 lt
+loading
+locking
 but
 by
 best
@@ -1401,6 +1418,7 @@ behind
 box
 boosting
 banks
+blur
 Worst
 We
 Where
@@ -1507,6 +1525,8 @@ deployment
 danygerges
 diploma
 documents
+disabling
+disable
 represented
 reason
 reflects
@@ -1608,6 +1628,8 @@ restricted
 requisting
 receive
 register
+resolved
+recalculate
 Best
 BREAK
 Backlinks
@@ -1761,6 +1783,7 @@ pay
 pp
 person
 payments
+possible
 Family
 Find
 Finish
@@ -1819,6 +1842,7 @@ height
 hoc
 hours
 haAd
+hook
 Properties
 Planner
 Pomodoro
@@ -1922,6 +1946,7 @@ Examples
 Experience
 Education
 Exams
+Extend
 Keys
 Key
 KB
