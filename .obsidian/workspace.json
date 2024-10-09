@@ -253,9 +253,9 @@
       "templates:Insert template": false,
       "templater-obsidian:Templater": false,
       "obsidian-statusbar-pomo:Start pomodoro": false,
+      "copilot:Copilot Chat": false,
       "smart-connections:Open: View Smart Connections": false,
-      "smart-connections:Open: Smart Chat Conversation": false,
-      "copilot:Copilot Chat": false
+      "smart-connections:Open: Smart Chat Conversation": false
     }
   },
   "active": "1fd26bb3bbafb355",
