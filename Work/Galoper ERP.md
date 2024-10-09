@@ -2,7 +2,7 @@
 - [ ] Abstract form details section footer
 - [ ] Abstract form details section header
 - [ ] Abstract disabling form fields using the `useForm` hook based on status and page
-- [ ] Add a hook that initializes that form `status`, `documentName`, and `id`
+- [x] Add a hook that initializes that form `status`, `documentName`, and `date`
 - [ ] Make `Datatable` use the `DatatableRrovider` by default
 - [ ] Extend `useFieldArray` hook by adding default values and making it add the default values when the function is executed with empty values
 - [ ] Rework `Datatable` context menu
