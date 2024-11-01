@@ -15,6 +15,8 @@
 - [ ] Cancel action int the context menu returns error and no network action is being sent
 - [ ] Delete action should have a confirmation
 - [ ] Cancel action should have confirmation
+- [ ] In column visibility Columns should be translated
+- [ ] Check If all fields exist in the column visibility 
 
 #### Form
 - [ ] Add Icons and color to priority 
