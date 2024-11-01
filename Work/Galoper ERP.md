@@ -37,6 +37,7 @@
 - [ ] Increase size of Reason For Restock 
 - [ ] Tabbing on the estimated cost makes it 0 and doesn't save the value entered
 - [ ] Adding a value to the estimated cost is not working
+- [ ] Adding value to quantity not working
 
 #### Edit page
 - [ ] Save And SaveAsDraft buttons should have min width
@@ -52,7 +53,6 @@
 
 #### Create Page
 - [ ] Save And SaveAsDraft buttons should have min width
-- [ ] 
 
 ## Misc 
 #### Edit Page
