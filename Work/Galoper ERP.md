@@ -58,7 +58,12 @@
 
 ## Inventory
 ### Stock Adjustment
-- [ ] Move Tab to the left
+#### List Page
+- [ ] Move Tab to the right
+
+#### Form 
+- [ ] Make warehouse on first row and description on the second row
+- [ ] Increase size of item 
 - [ ] 
 
 ## Misc 
