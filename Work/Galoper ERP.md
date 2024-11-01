@@ -56,6 +56,11 @@
 #### Create Page
 - [ ] Save And SaveAsDraft buttons should have min width
 
+## Inventory
+### Stock Adjustment
+- [ ] Move Tab to the left
+- [ ] 
+
 ## Misc 
 #### Edit Page
 - [ ] Add Are you sure pop when a document is being edited and back button is pressed
