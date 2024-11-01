@@ -35,6 +35,8 @@
 - [ ] Add entry is one word
 - [ ] Increase size of Item 
 - [ ] Increase size of Reason For Restock 
+- [ ] Tabbing on the estimated cost makes it 0 and doesn't save the value entered
+- [ ] Adding a value to the estimated cost is not working
 
 #### Edit page
 - [ ] Save And SaveAsDraft buttons should have min width
