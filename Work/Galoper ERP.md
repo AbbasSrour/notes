@@ -97,6 +97,8 @@
 - [ ] Reports & Settings: Align Search to the right
 - [ ] Toast message translation - Chart Of Account - Delete
 - [ ] On Create Chart Of Account, when all the fields have a value but for the parent account, when checking Sub Account, it returns error getLabel().toLowerCase for combobox. 
+- [ ] Parent Account takes time to load, on edit page of chart of account.
+- [ ] Chart of account should navigate back to the table on save.
 
 ## Branches To Be Merged
 - [ ] Common Purchase
