@@ -71,8 +71,9 @@
 ## Accounting
 ### Chart Of Account
 #### List Page
-- Add two view tree & list
-- Add drag and drop to make easier to move account from account to under another account.
+- [ ] Add two view tree & list
+- [ ] Add drag and drop to make easier to move account from account to under another account.
+- [ ] Uncaught error in datatable for chart of account when opening and closing, themed table.
 
 ## Misc 
 #### Edit Page
@@ -89,13 +90,13 @@
 -  [ ] Add Cancel action
 -  [ ] Add ResetToDraft action
 #### Table
-- [ ] Add drag and drop in datatable for subaccounts
+- [ ] Add drag and drop in datatable
 
 ## Release
 - [ ] Branches, Language, Account dropdown separator 
 - [ ] Reports & Settings: Align Search to the right
-- [ ] Uncaught error in datatable for chart of account when opening and closing
 - [ ] Toast message translation - Chart Of Account - Delete
+- [ ] On Create Chart Of Account, when all the fields have a value but for the parent account, when checking Sub Account, it returns error getLabel().toLowerCase for combobox. 
 
 ## Branches To Be Merged
 - [ ] Common Purchase
