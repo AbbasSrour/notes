@@ -68,10 +68,11 @@
 - [ ] Add animation for adjustment quantity
 - [ ] Switch barcode and 
 
-## Misc - Release
-- [ ] Branches, Language, Account dropdown separator 
-- [ ] Reports & Settings: Align Search to the right
-- [ ] Uncaught error in datatable for chart of account when opening and closing
+## Accounting
+### Chart Of Account
+#### List Page
+- Add two view tree & list
+- Add drag and drop to make easier to move account from account to under another account.
 
 ## Misc 
 #### Edit Page
@@ -87,6 +88,13 @@
 #### Actions
 -  [ ] Add Cancel action
 -  [ ] Add ResetToDraft action
+#### Table
+- [ ] Add drag and drop in datatable for subaccounts
+
+## Release
+- [ ] Branches, Language, Account dropdown separator 
+- [ ] Reports & Settings: Align Search to the right
+- [ ] Uncaught error in datatable for chart of account when opening and closing
 
 ## Branches To Be Merged
 - [ ] Common Purchase
