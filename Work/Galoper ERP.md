@@ -75,6 +75,10 @@
 - [ ] Add drag and drop to make easier to move account from account to under another account.
 - [ ] Uncaught error in datatable for chart of account when opening and closing, themed table.
 
+## Settings
+### General
+- [ ] Add password strength and confirm password, also hide password input if doesn't allow password
+
 ## Misc 
 #### Edit Page
 - [ ] Add Are you sure pop when a document is being edited and back button is pressed
@@ -91,6 +95,9 @@
 -  [ ] Add ResetToDraft action
 #### Table
 - [ ] Add drag and drop in datatable
+
+#### Date Field
+- [ ] Selected date for locked dates should be red and white, not primary.
 
 ## Release
 - [ ] Branches, Language, Account dropdown separator 
