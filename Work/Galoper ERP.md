@@ -71,6 +71,7 @@
 ## Misc - Release
 - [ ] Branches, Language, Account dropdown separator 
 - [ ] Reports & Settings: Align Search to the right
+- [ ] Uncaught error in datatable for chart of account when opening and closing
 
 ## Misc 
 #### Edit Page
