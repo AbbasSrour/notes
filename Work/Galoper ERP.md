@@ -68,6 +68,10 @@
 - [ ] Add animation for adjustment quantity
 - [ ] Switch barcode and 
 
+## Misc - Release
+- [ ] Branches, Language, Account dropdown separator 
+- [ ] Reports & Settings: Align Search to the right
+
 ## Misc 
 #### Edit Page
 - [ ] Add Are you sure pop when a document is being edited and back button is pressed
@@ -83,8 +87,6 @@
 -  [ ] Add Cancel action
 -  [ ] Add ResetToDraft action
 
-## Branches 
+## Branches To Be Merged
 - [ ] Common Purchase
 - [ ] Purchase Settings
-- [ ] Welcome Loader
-- [ ] Fix Wrong Imports
