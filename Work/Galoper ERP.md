@@ -95,6 +95,8 @@
 - [ ] Branches, Language, Account dropdown separator 
 - [ ] Reports & Settings: Align Search to the right
 - [ ] Uncaught error in datatable for chart of account when opening and closing
+- [ ] Toast message translation - Chart Of Account - Delete
+- [ ] Remove confirmation message 
 
 ## Branches To Be Merged
 - [ ] Common Purchase
