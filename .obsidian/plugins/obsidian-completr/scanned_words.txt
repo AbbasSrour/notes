@@ -39,6 +39,9 @@ Translations
 Terms
 Teacher
 TODO
+Total
+Tabbing
+Tab
 RAM
 Random
 Record
@@ -72,6 +75,10 @@ Registration
 Remove
 Rework
 Rename
+Requisition
+Reason
+Restock
+ResetToDraft
 Model
 Machine
 MM
@@ -99,6 +106,8 @@ Manipulation
 Multi
 Meetings
 Make
+Move
+Menu
 of
 or
 one
@@ -193,6 +202,9 @@ Courses
 Course
 Cancel
 CMS
+Custom
+Context
+Created
 Definition
 Data
 Delete
@@ -234,6 +246,11 @@ Deployment
 Degree
 Diploma
 Deploma
+Date
+Description
+Due
+Department
+Details
 model
 made
 maximum
@@ -328,6 +345,7 @@ midterm
 menu
 messages
 modules
+min
 Access
 Average
 Analysis
@@ -373,6 +391,13 @@ Advanced
 Automated
 Attendance
 Abstract
+Approved
+Attachment
+Attachments
+Adding
+Adjustment
+Are
+Actions
 specifies
 statements
 set
@@ -526,6 +551,10 @@ schedule
 settings
 status
 submit
+smaller
+sent
+sticky
+save
 that
 takes
 time
@@ -618,6 +647,9 @@ tracking
 testing
 training
 teachers
+total
+translated
+topbar
 every
 executes
 efficiency
@@ -701,6 +733,8 @@ empower
 ecommerce
 exams
 edit
+estimated
+edited
 computer
 calls
 costs
@@ -856,6 +890,12 @@ course
 curiculum
 cannot
 context
+currency
+confirmation
+color
+comment
+cost
+cancel
 is
 instruction
 instance
@@ -1066,6 +1106,9 @@ adds
 approve
 approves
 action
+approval
+animation
+adjustment
 where
 worst
 when
@@ -1108,6 +1151,8 @@ whatsapp
 watch
 word
 whish
+width
+warehouse
 unit
 units
 usually
@@ -1141,6 +1186,7 @@ unchanged
 unclustered
 utilize
 unless
+uof
 needed
 number
 not
@@ -1172,6 +1218,8 @@ needs
 numbers
 nearly
 notifications
+network
+near
 for
 function
 full
@@ -1238,6 +1286,8 @@ fulfillment
 fitness
 final
 footer
+filters
+follows
 Subroutine
 Start
 Selection
@@ -1296,6 +1346,14 @@ Survey
 Send
 Should
 Stack
+Status
+Supplier
+Save
+SaveAsDraft
+Stock
+Switch
+Section
+Selected
 loops
 loop
 link
@@ -1419,6 +1477,9 @@ box
 boosting
 banks
 blur
+badge
+buttons
+barcode
 Worst
 We
 Where
@@ -1527,6 +1588,10 @@ diploma
 documents
 disabling
 disable
+draft
+doing
+document
+decrease
 represented
 reason
 reflects
@@ -1630,6 +1695,7 @@ receive
 register
 resolved
 recalculate
+returns
 Best
 BREAK
 Backlinks
@@ -1647,6 +1713,7 @@ Bytes
 Binary
 Bulk
 Bundle
+Button
 Generally
 Get
 Gläser
@@ -1784,6 +1851,9 @@ pp
 person
 payments
 possible
+priority
+pop
+pressed
 Family
 Find
 Finish
@@ -1800,6 +1870,8 @@ Fixed
 Floating
 Formula
 Foreign
+Filter
+Filters
 keeps
 keys
 key
@@ -1843,6 +1915,7 @@ hoc
 hours
 haAd
 hook
+hovered
 Properties
 Planner
 Pomodoro
@@ -1883,6 +1956,9 @@ Profile
 Push
 POS
 Pulse
+Purchase
+Page
+Priority
 It
 Ids
 Insert
@@ -1925,6 +2001,10 @@ Integrity
 IT
 Intuitive
 Interface
+Increase
+Input
+Item
+Inventory
 Every
 Execute
 Event
@@ -1947,6 +2027,8 @@ Experience
 Education
 Exams
 Extend
+Edit
+Export
 Keys
 Key
 KB
@@ -1961,6 +2043,7 @@ Notation
 Null
 Needs
 Notification
+Notes
 value
 values
 vs
@@ -1984,6 +2067,8 @@ varchar
 vertical
 variations
 videos
+visibility
+variant
 Leaf
 Link
 Lead
@@ -1998,6 +2083,7 @@ Logical
 Languages
 Language
 Lebanon
+List
 Values
 Viewer
 View
@@ -2007,6 +2093,8 @@ Value
 Valid
 VDL
 Viewing
+Voucher
+Variant
 guide
 gesundheit
 getEvents
@@ -2041,6 +2129,7 @@ quickly
 quick
 queries
 qa
+quantity
 YYYY
 Yeah
 You
@@ -2100,6 +2189,7 @@ Of
 Operations
 Our
 Online
+Order
 Journal
 Jump
 Java
