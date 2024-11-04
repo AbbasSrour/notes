@@ -112,3 +112,4 @@
 - [ ] Parent Account takes time to load, on edit page of chart of account.
 - [ ] Chart of account should navigate back to the table on save.
 - [ ] Account Classification in Customer not showing error message on validation when null.
+- [ ] Save on customer individual throws undefined error
