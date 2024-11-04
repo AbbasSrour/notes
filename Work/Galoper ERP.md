@@ -78,6 +78,7 @@
 ## Settings
 ### General
 - [ ] Add password strength and confirm password, also hide password input if doesn't allow password
+- [ ] Remove Edit From Titles
 
 ## Supplier
 ### Form
@@ -117,4 +118,4 @@
 - [ ] Error on balance sheet report, datatable provider
 - [ ] Test reports buggy
 - [ ] Edit profile page 404 from drop down (settings/my-account)
-- [ ] 
+- [ ] In Company Information country field is not being filled by default
