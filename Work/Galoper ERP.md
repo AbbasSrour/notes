@@ -79,6 +79,10 @@
 ### General
 - [ ] Add password strength and confirm password, also hide password input if doesn't allow password
 
+## Supplier
+### Form
+- [ ] 
+
 ## Misc 
 #### Edit Page
 - [ ] Add Are you sure pop when a document is being edited and back button is pressed
@@ -107,7 +111,3 @@
 - [ ] Parent Account takes time to load, on edit page of chart of account.
 - [ ] Chart of account should navigate back to the table on save.
 - [ ] Account Classification in Customer not showing error message on validation when null.
-
-## Branches To Be Merged
-- [ ] Common Purchase
-- [ ] Purchase Settings
