@@ -42,6 +42,7 @@ TODO
 Total
 Tabbing
 Tab
+Toast
 RAM
 Random
 Record
@@ -79,6 +80,7 @@ Requisition
 Reason
 Restock
 ResetToDraft
+Release
 Model
 Machine
 MM
@@ -108,6 +110,7 @@ Meetings
 Make
 Move
 Menu
+Merged
 of
 or
 one
@@ -150,6 +153,7 @@ ongoing
 own
 overide
 omt
+opening
 Computation
 Calculating
 Complexity
@@ -205,6 +209,8 @@ CMS
 Custom
 Context
 Created
+Chart
+Common
 Definition
 Data
 Delete
@@ -346,6 +352,7 @@ menu
 messages
 modules
 min
+move
 Access
 Average
 Analysis
@@ -398,6 +405,9 @@ Adding
 Adjustment
 Are
 Actions
+Accounting
+Account
+Align
 specifies
 statements
 set
@@ -555,6 +565,7 @@ smaller
 sent
 sticky
 save
+separator
 that
 takes
 time
@@ -650,6 +661,9 @@ teachers
 total
 translated
 topbar
+themed
+translation
+toLowerCase
 every
 executes
 efficiency
@@ -896,6 +910,10 @@ color
 comment
 cost
 cancel
+chart
+closing
+confirm
+combobox
 is
 instruction
 instance
@@ -1109,6 +1127,7 @@ action
 approval
 animation
 adjustment
+account
 where
 worst
 when
@@ -1153,6 +1172,7 @@ word
 whish
 width
 warehouse
+white
 unit
 units
 usually
@@ -1220,6 +1240,7 @@ nearly
 notifications
 network
 near
+navigate
 for
 function
 full
@@ -1354,6 +1375,7 @@ Stock
 Switch
 Section
 Selected
+Sub
 loops
 loop
 link
@@ -1422,6 +1444,8 @@ lebanon
 lt
 loading
 locking
+locked
+load
 but
 by
 best
@@ -1592,6 +1616,11 @@ draft
 doing
 document
 decrease
+drag
+drop
+datatable
+dates
+dropdown
 represented
 reason
 reflects
@@ -1696,6 +1725,7 @@ register
 resolved
 recalculate
 returns
+red
 Best
 BREAK
 Backlinks
@@ -1714,6 +1744,8 @@ Binary
 Bulk
 Bundle
 Button
+Branches
+Be
 Generally
 Get
 Gläser
@@ -1728,6 +1760,7 @@ GCP
 GC
 Groups
 Grades
+General
 preferred
 perfectly
 pairs
@@ -1872,6 +1905,7 @@ Formula
 Foreign
 Filter
 Filters
+Field
 keeps
 keys
 key
@@ -1916,6 +1950,7 @@ hours
 haAd
 hook
 hovered
+hide
 Properties
 Planner
 Pomodoro
@@ -1959,6 +1994,7 @@ Pulse
 Purchase
 Page
 Priority
+Parent
 It
 Ids
 Insert
@@ -2122,6 +2158,7 @@ give
 gets
 grade
 grades
+getLabel
 query
 quote
 quality
@@ -2159,6 +2196,7 @@ Usage
 Uses
 Used
 Using
+Uncaught
 join
 job
 js
