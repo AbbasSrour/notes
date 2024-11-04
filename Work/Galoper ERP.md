@@ -113,3 +113,8 @@
 - [ ] Chart of account should navigate back to the table on save.
 - [ ] Account Classification in Customer not showing error message on validation when null.
 - [ ] Save on customer individual throws undefined error
+- [ ] On validation error in create company customer, if there is an issue in customer information and branches trying to press on the branches tab takes you back to the customer information
+- [ ] Error on balance sheet report, datatable provider
+- [ ] Test reports buggy
+- [ ] Edit profile page 404 from drop down (settings/my-account)
+- [ ] 
