@@ -106,6 +106,7 @@
 - [ ] On Create Chart Of Account, when all the fields have a value but for the parent account, when checking Sub Account, it returns error getLabel().toLowerCase for combobox. 
 - [ ] Parent Account takes time to load, on edit page of chart of account.
 - [ ] Chart of account should navigate back to the table on save.
+- [ ] Account Classification in Customer not showing error message on validation when null.
 
 ## Branches To Be Merged
 - [ ] Common Purchase
