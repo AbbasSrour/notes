@@ -43,6 +43,7 @@ Total
 Tabbing
 Tab
 Toast
+Titles
 RAM
 Random
 Record
@@ -211,6 +212,9 @@ Context
 Created
 Chart
 Common
+Classification
+Customer
+Company
 Definition
 Data
 Delete
@@ -566,6 +570,8 @@ sent
 sticky
 save
 separator
+showing
+sheet
 that
 takes
 time
@@ -664,6 +670,9 @@ topbar
 themed
 translation
 toLowerCase
+throws
+trying
+tab
 every
 executes
 efficiency
@@ -914,6 +923,7 @@ chart
 closing
 confirm
 combobox
+country
 is
 instruction
 instance
@@ -1003,6 +1013,8 @@ items
 instructors
 initializes
 infers
+inputs
+individual
 an
 algorithm
 as
@@ -1207,6 +1219,7 @@ unclustered
 utilize
 unless
 uof
+undefined
 needed
 number
 not
@@ -1376,6 +1389,7 @@ Switch
 Section
 Selected
 Sub
+Split
 loops
 loop
 link
@@ -1504,6 +1518,8 @@ blur
 badge
 buttons
 barcode
+balance
+buggy
 Worst
 We
 Where
@@ -1726,6 +1742,8 @@ resolved
 recalculate
 returns
 red
+redesign
+reports
 Best
 BREAK
 Backlinks
@@ -1887,6 +1905,7 @@ possible
 priority
 pop
 pressed
+profile
 Family
 Find
 Finish
@@ -1906,6 +1925,7 @@ Foreign
 Filter
 Filters
 Field
+From
 keeps
 keys
 key
@@ -1995,6 +2015,7 @@ Purchase
 Page
 Priority
 Parent
+Phone
 It
 Ids
 Insert
@@ -2041,6 +2062,7 @@ Increase
 Input
 Item
 Inventory
+Information
 Every
 Execute
 Event
@@ -2120,6 +2142,7 @@ Languages
 Language
 Lebanon
 List
+Locking
 Values
 Viewer
 View
