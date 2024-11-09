@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cryptography/Cryptology.md",
+                "file": "Work/ERP/Misc/Release.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cryptology"
+              "title": "Release"
             }
           }
         ]
@@ -284,8 +284,29 @@
   },
   "active": "1fd26bb3bbafb355",
   "lastOpenFiles": [
-    "Software Engineering/Use Case Diagram.md",
+    "Work/Galoper ERP.md",
+    "Work/ERP/Misc/Release.md",
+    "Work/ERP/Misc/Components.md",
+    "Work/ERP/Misc/Edit Page.md",
+    "Work/ERP/Misc/List Page.md",
+    "Work/ERP/Misc/Untitled",
+    "Work/ERP/Misc/Actions.md",
+    "Work/ERP/Misc",
+    "Work/Ciatek Website.md",
+    "Work/ERP/Supplier/Account.md",
+    "Work/ERP/Supplier",
+    "Work/ERP/Accounting/Chart Of Account.md",
+    "Work/ERP/Settings/General.md",
+    "Work/ERP/Settings",
+    "Work/ERP/Inventory/Stock Adjustment.md",
+    "Work/ERP/Accounting/Journal Voucher.md",
+    "Work/ERP/Inventory",
+    "Work/ERP/Purchase/Requistion.md",
+    "Work/ERP/Purchase",
+    "Work/ERP/Accounting",
+    "Work/ERP",
     "Cryptography/Cryptology.md",
+    "Software Engineering/Use Case Diagram.md",
     "Cryptography",
     "smart-chats/my first note.md",
     "Software Engineering/UML Diagrams.md",
@@ -295,28 +316,10 @@
     "Software Engineering/Class Diagram.md",
     "Monitoring/OpenTelemetry.md",
     "Monitoring/Observability.md",
-    "Work/Galoper ERP.md",
     "Misc/Senior Developer Notes.md",
-    "Work/Ciatek Website.md",
     "Work/Ecommerce Quotation.md",
     "Work/Step Ahead Requirments.md",
-    "Calculus/Rate  Of Change.md",
     "Work",
-    "Untitled.md",
-    "Precalculus/Point Slope Formula.md",
-    "Precalculus",
-    "DBMS/Database/Queries/Data Definition Language.md",
-    "smart-chats/UNTITLED CHAT 2024-07-21 21 32 14.md",
-    "smart-chats",
-    "smart-chats/UNTITLED CHAT 2024-07-21 21 15 26.md",
-    "DBMS/Database/Database.md",
-    "DBMS/DBMS System/DBMS Design.md",
-    "smart-chats/UNTITLED CHAT 2024-07-21 21 22 26.md",
-    "smart-chats",
-    "Discrete/DIvisibilty And Modularity.md",
-    "Calculus",
-    "Todo/MOF.md",
-    "Misc",
     "Misc/pf4-vscode.png",
     "Misc/pf7-vscode.png",
     "Misc/pf6-vscode.png",
@@ -326,9 +329,6 @@
     "Misc/pf1-vscode.png",
     "Misc/pf7-success.png",
     "Misc/pf7-error.png",
-    "Misc/pf7-pycharm.png",
-    "home/ares/Pictures/Screenshots",
-    "home/ares/Pictures",
-    "home/ares"
+    "Misc/pf7-pycharm.png"
   ]
 }

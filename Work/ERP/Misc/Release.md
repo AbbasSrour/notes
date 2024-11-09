@@ -1,0 +1,13 @@
+- [ ] Branches, Language, Account dropdown separator 
+- [ ] Reports & Settings: Align Search to the right
+- [ ] Toast message translation - Chart Of Account - Delete
+- [ ] On Create Chart Of Account, when all the fields have a value but for the parent account, when checking Sub Account, it returns error getLabel().toLowerCase for combobox. 
+- [ ] Parent Account takes time to load, on edit page of chart of account.
+- [ ] Chart of account should navigate back to the table on save.
+- [ ] Account Classification in Customer not showing error message on validation when null.
+- [ ] Save on customer individual throws undefined error
+- [ ] On validation error in create company customer, if there is an issue in customer information and branches trying to press on the branches tab takes you back to the customer information
+- [ ] Error on balance sheet report, datatable provider
+- [ ] Test reports buggy
+- [ ] Edit profile page 404 from drop down (settings/my-account)
+- [ ] In Company Information country field is not being filled by default
