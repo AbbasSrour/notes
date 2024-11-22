@@ -26,4 +26,12 @@
 
 
 ## Variants 
-- [ ] Change
+- [ ] Change the variant value field in according to what discussed 
+- [ ] deleting the last field in the variant values deletes on the frontend and backend but causes backend to throw 500
+- [ ] Translation message for add success
+- [ ] Translation message for update success
+- [ ] Translation message for conflict
+
+## Facilities
+- [ ] Translation message for conflict
+- [ ] Translation message for 
