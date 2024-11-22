@@ -6,3 +6,5 @@
 - [ ] Category list is empty
 - [ ] In edit, when changing the category name you can't save
 
+## Unit Of Measure
+- [ ] Prevent delete on the predefined units of measures
