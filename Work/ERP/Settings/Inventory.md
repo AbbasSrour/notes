@@ -6,6 +6,8 @@
 - [ ] Category list is empty
 - [ ] In edit, when changing the category name you can't save
 
+## Brand 
+- [ ] translation message for success 
 ## Unit Of Measure
 - [ ] Prevent delete on the predefined units of measures
 - [ ] Translation message for unit of measure add, update success 
