@@ -8,3 +8,5 @@
 
 ## Unit Of Measure
 - [ ] Prevent delete on the predefined units of measures
+- [ ] Translation message for unit of measure add, update success 
+- [ ] 
