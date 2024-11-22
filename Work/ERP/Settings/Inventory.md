@@ -5,3 +5,4 @@
 ## Category
 - [ ] Category list is empty
 - [ ] In edit, when changing the category name you can't save
+
