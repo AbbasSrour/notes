@@ -7,8 +7,137 @@
 - [ ] In edit, when changing the category name you can't save
 
 ## Brand 
-- [ ] translation message for success 
+- [ ] translation message for success in update and create
+
+## Family
+- [ ] translation for success in update and create
+
+## Specification
+- [ ] Translation for description conflict code
+- [ ] Translation for create successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successse
+- [ ] Translation for desucreate successs
+- [ ] 
 ## Unit Of Measure
 - [ ] Prevent delete on the predefined units of measures
 - [ ] Translation message for unit of measure add, update success 
-- [ ] 
