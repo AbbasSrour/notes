@@ -17,5 +17,8 @@
 - [ ] Translation for create successse
 - [ ] Translation for update success
 ## Unit Of Measure
-- [ ] Prevent delete on the predefined units of measures
-- [ ] Translation message for unit of measure add, update success 
+- [ ] Translation message for unit of measure add success
+- [ ] Translation message for unit of measure update success 
+
+## Tags 
+- [ ]
