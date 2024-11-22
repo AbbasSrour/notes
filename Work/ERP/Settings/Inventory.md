@@ -21,4 +21,9 @@
 - [ ] Translation message for unit of measure update success 
 
 ## Tags 
-- [ ]
+- [ ] Translation message for tag add success
+- [ ] Translation message for tag update success
+
+
+## Variants 
+- [ ] Change
