@@ -17,4 +17,4 @@
 ### Inventory
 - [ ] Move the weight, length, height, and width to general
 - [ ] Rename the tab to stock
-- [ ] Warranty/Minimum Quantity /Weight /Lenght/ Height/ Width
+- [ ] Warranty/Minimum Quantity /Weight /Length/ Height/ Width
