@@ -6,5 +6,15 @@
 - [ ] Unit of measure doesn't give any message when required is there just red style for label.
 - [ ] Have UOM directly close to after the cost strategy since it is required
 - [ ] Specs add option permission path is empty
+- [ ] Should auto set category on creation and close the popup
+- [ ] Should auto set the family on creation and close the popup
+- [ ] Should auto set the brand on creation and close the popup 
+- [ ] Should auto set the tags on creation and close the popup
+- [ ] Add option on spec throws an error
+- [ ] Should auto set the specs on creation and close the popup
+- [ ] Move cost strategy to purchase/sales
 
 ### Inventory
+- [ ] Move the weight, length, height, and width to general
+- [ ] Rename the tab to stock
+- [ ] Warranty/Minimum Quantity /Weight /Lenght/ Height/ Width
