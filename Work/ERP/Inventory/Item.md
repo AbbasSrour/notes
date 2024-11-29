@@ -22,4 +22,3 @@
 - [ ] Warranty/Minimum Quantity /Weight /Length/ Height/ Width
 - [ ] Warranty Period input with dropdown sets the value of to 0 with expected number, received string error message.
 - [ ] Months spills of the input
-- [ ] 
