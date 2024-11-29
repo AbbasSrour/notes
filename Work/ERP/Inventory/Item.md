@@ -21,4 +21,32 @@
 - [ ] Rename the tab to stock
 - [ ] Warranty/Minimum Quantity /Weight /Length/ Height/ Width
 - [ ] Warranty Period input with dropdown sets the value of to 0 with expected number, received string error message.
-- [ ] Months spills of the input
+- [ ] Months spills of the input with dropdown 
+- [ ] Warranty period keeps being set to 0 after changing tabs
+- [ ] Track inventory by is reset when selecting a barcode
+
+
+### Accounting
+- [ ] When creating a tax, tax percentage allows text and values > 100 move to number input
+- [ ] When creating a tax, no tax debtor/creditor balance account is shown
+- [ ] When creating Account Group, the header is transparent 
+- [ ] On asterisk on the required fields in create account group 
+
+### Purchase
+- [ ] Two cost fields exist
+- [ ] Nan on cost fields minimum quantity and lead time
+- [ ] Required message in minimum quantity and lead time is expected number recieved NAN
+- [ ] no error message on default purchase unit of measure
+- [ ] saving the form causes lead time to become 0
+- [ ] no asterisk on minimum quantity order , lead time or default purchase unit of measure
+
+### Sales 
+- [ ] Two selling Price fields exist 
+- [ ] No error message for default purchase unit of measure 
+- [ ] Name default purchase should be changed to default sale unit of measure ???
+- [ ] No asterisk on maximum discount or default purchase unit of measure
+
+### POS 
+- [ ] Expected number recieved NAN error message, also add asterisk if required on the fields.
+- [ ] Expected number received string, in shelf life when changing value, same goes for end of life.
+- [ ] Can input text in the fields
