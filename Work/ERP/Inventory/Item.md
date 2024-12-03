@@ -19,41 +19,39 @@
 ### Inventory
 - [x] Move the weight, length, height, and width to general
 - [x] Rename the tab to stock
-- [ ] Warranty/Minimum Quantity /Weight /Length/ Height/ Width
-- [ ] Warranty Period input with dropdown sets the value of to 0 with expected number, received string error message.
-- [ ] Months spills of the input with dropdown 
-- [ ] Warranty period keeps being set to 0 after changing tabs
-- [ ] Track inventory by is reset when selecting a barcode
+- [x] Warranty/Minimum Quantity /Weight /Length/ Height/ Width
+- [x] Warranty Period input with dropdown sets the value of to 0 with expected number, received string error message.
+- [x] Months spills of the input with dropdown 
+- [x] Warranty period keeps being set to 0 after changing tabs
+- [x] Track inventory by is reset when selecting a barcode
 
 
 ### Accounting
-- [ ] When creating a tax, tax percentage allows text and values > 100 move to number input
-- [ ] When creating a tax, no tax debtor/creditor balance account is shown
-- [ ] When creating Account Group, the header is transparent 
-- [ ] On asterisk on the required fields in create account group 
+- [x] When creating a tax, tax percentage allows text and values > 100 move to number input
+- [x] When creating a tax, no tax debtor/creditor balance account is shown
+- [x] When creating Account Group, the header is transparent 
+- [x] On asterisk on the required fields in create account group 
 
 ### Purchase
-- [ ] Two cost fields exist
-- [ ] Nan on cost fields minimum quantity and lead time
-- [ ] Required message in minimum quantity and lead time is expected number recieved NAN
-- [ ] no error message on default purchase unit of measure
-- [ ] saving the form causes lead time to become 0
-- [ ] no asterisk on minimum quantity order , lead time or default purchase unit of measure
+- [x] Two cost fields exist
+- [x] Nan on cost fields minimum quantity and lead time
+- [x] Required message in minimum quantity and lead time is expected number recieved NAN
+- [x] no error message on default purchase unit of measure
+- [x] saving the form causes lead time to become 0
+- [x] no asterisk on minimum quantity order , lead time or default purchase unit of measure
 
 ### Sales 
-- [ ] Two selling Price fields exist 
-- [ ] No error message for default purchase unit of measure 
-- [ ] Name default purchase should be changed to default sale unit of measure ???
-- [ ] No asterisk on maximum discount or default purchase unit of measure
+- [x] Two selling Price fields exist 
+- [x] No error message for default purchase unit of measure 
+- [x] Name default purchase should be changed to default sale unit of measure ???
+- [x] No asterisk on maximum discount or default purchase unit of measure
 
 ### POS 
-- [ ] Expected number recieved NAN error message, also add asterisk if required on the fields.
-- [ ] Expected number received string, in shelf life when changing value, same goes for end of life.
+- [x] Expected number recieved NAN error message, also add asterisk if required on the fields.
+- [x] Expected number received string, in shelf life when changing value, same goes for end of life.
 - [ ] Can input text in the fields
 
 
-
-##############################################################
 ## Form
 - [ ] Styles for description and input field should be the same.
 - [ ] Remove arrows form number fields that have pickers.
@@ -68,3 +66,6 @@
 - [ ] Purchase doesn't show accounts.
 - [ ] POS doesn't show accounts.
 - [ ] Assets doesn't show accounts.
+- [ ] Label of options in input with dropdown should be uppercase in case of month/day...
+- [ ] Input with dropdown allows adding alphabatical characters in week/days/.. fields.
+- [ ] 
