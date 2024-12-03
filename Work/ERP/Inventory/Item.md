@@ -13,12 +13,12 @@
 - [x] Add option on spec throws an error
 - [x] Should auto set the specs on creation and close the popup
 - [x] Move cost strategy to purchase/sales
-- [ ] Uom is empty
-- [ ] Close on select on Tags
+- [x] Uom is empty
+- [x] Close on select on Tags
 
 ### Inventory
-- [ ] Move the weight, length, height, and width to general
-- [ ] Rename the tab to stock
+- [x] Move the weight, length, height, and width to general
+- [x] Rename the tab to stock
 - [ ] Warranty/Minimum Quantity /Weight /Length/ Height/ Width
 - [ ] Warranty Period input with dropdown sets the value of to 0 with expected number, received string error message.
 - [ ] Months spills of the input with dropdown 
