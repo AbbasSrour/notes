@@ -68,6 +68,7 @@
 - [ ] Assets doesn't show accounts.
 - [ ] Label of options in input with dropdown should be uppercase in case of month/day...
 - [ ] Input with dropdown allows adding alphabatical characters in week/days/.. fields.
+- [ ]  POS -> can input text in fields
 
 ## List
 - [ ] Put everything to the right
