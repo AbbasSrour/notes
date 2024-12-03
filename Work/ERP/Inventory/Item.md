@@ -12,7 +12,7 @@
 - [x] Should auto set the tags on creation and close the popup
 - [x] Add option on spec throws an error
 - [x] Should auto set the specs on creation and close the popup
-- [ ] Move cost strategy to purchase/sales
+- [x] Move cost strategy to purchase/sales
 - [ ] Uom is empty
 - [ ] Close on select on Tags
 
@@ -61,4 +61,10 @@
 - [ ] Move Cost strategy to before cost field in purchase field.
 - [ ] Remove arrows from Warranty Period, it also allows alphabetical characters.
 - [ ] Weight - Height - Length - Width units when not submit doesn't show an error, also maybe add pulse animation to them so that the user can better notice them.
-- [ ] 
+- [ ] Tax Debtor still doesn't show accounts.
+- [ ] Barcode and uom keeps getting cleared
+- [ ] Sales doesn't show accounts.
+- [ ] Expenses doesn't show accounts.
+- [ ] Purchase doesn't show accounts.
+- [ ] POS doesn't show accounts.
+- [ ] Assets doesn't show accounts.
