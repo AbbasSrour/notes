@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/ERP/Inventory/Item.md",
+                "file": "Work/ERP/Inventory/Opening Quantity.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Item"
+              "title": "Opening Quantity"
             }
           }
         ]
@@ -284,9 +284,10 @@
   },
   "active": "1fd26bb3bbafb355",
   "lastOpenFiles": [
-    "Work/ERP/Settings/Inventory.md",
-    "Work/ERP/Inventory/Item.md",
     "Work/ERP/Inventory/Stock Adjustment.md",
+    "Work/ERP/Inventory/Opening Quantity.md",
+    "Work/ERP/Inventory/Item.md",
+    "Work/ERP/Settings/Inventory.md",
     "Work/ERP/Misc/Form.md",
     "Work/ERP/Misc/Release.md",
     "Work/Galoper ERP.md",
@@ -318,7 +319,6 @@
     "Software Engineering/Requirement Specification.md",
     "Software Engineering/Class Diagram.md",
     "Monitoring/OpenTelemetry.md",
-    "Monitoring/Observability.md",
     "Work",
     "Misc/pf4-vscode.png",
     "Misc/pf7-vscode.png",
