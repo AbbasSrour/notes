@@ -3,15 +3,15 @@
 - [x] Barcode Type is cleared by track inventory by field.
 - [x] When adding a category it should close the tab by default and assign it.
 - [x] Fix the error message for category/family/brand giving expected number received NAN
-- [ ] Unit of measure doesn't give any message when required is there just red style for label.
-- [ ] Have UOM directly close to after the cost strategy since it is required
-- [ ] Specs add option permission path is empty
-- [ ] Should auto set category on creation and close the popup
-- [ ] Should auto set the family on creation and close the popup
-- [ ] Should auto set the brand on creation and close the popup 
-- [ ] Should auto set the tags on creation and close the popup
-- [ ] Add option on spec throws an error
-- [ ] Should auto set the specs on creation and close the popup
+- [x] Unit of measure doesn't give any message when required is there just red style for label.
+- [x] Have UOM directly close to after the cost strategy since it is required
+- [x] Specs add option permission path is empty
+- [x] Should auto set category on creation and close the popup
+- [x] Should auto set the family on creation and close the popup
+- [x] Should auto set the brand on creation and close the popup 
+- [x] Should auto set the tags on creation and close the popup
+- [x] Add option on spec throws an error
+- [x] Should auto set the specs on creation and close the popup
 - [ ] Move cost strategy to purchase/sales
 - [ ] Uom is empty
 - [ ] Close on select on Tags
@@ -58,3 +58,6 @@
 - [ ] Styles for description and input field should be the same.
 - [ ] Remove arrows form number fields that have pickers.
 - [ ] Weight - Height - Length - Width should not allow characters.
+- [ ] Move Cost strategy to before cost field in purchase field.
+- [ ] Remove arrows from Warranty Period, it also allows alphabetical characters.
+- [ ] Weight - Height - Length - Width units are not specified.
