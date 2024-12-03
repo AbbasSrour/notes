@@ -60,4 +60,5 @@
 - [ ] Weight - Height - Length - Width should not allow characters.
 - [ ] Move Cost strategy to before cost field in purchase field.
 - [ ] Remove arrows from Warranty Period, it also allows alphabetical characters.
-- [ ] Weight - Height - Length - Width units are not specified.
+- [ ] Weight - Height - Length - Width units when not submit doesn't show an error, also maybe add pulse animation to them so that the user can better notice them.
+- [ ] 
