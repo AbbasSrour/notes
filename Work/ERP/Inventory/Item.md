@@ -50,3 +50,11 @@
 - [ ] Expected number recieved NAN error message, also add asterisk if required on the fields.
 - [ ] Expected number received string, in shelf life when changing value, same goes for end of life.
 - [ ] Can input text in the fields
+
+
+
+##############################################################
+## Form
+- [ ] Styles for description and input field should be the same.
+- [ ] Remove arrows form number fields that have pickers.
+- [ ] Weight - Height - Length - Width should not allow characters.
