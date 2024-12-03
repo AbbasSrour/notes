@@ -68,4 +68,9 @@
 - [ ] Assets doesn't show accounts.
 - [ ] Label of options in input with dropdown should be uppercase in case of month/day...
 - [ ] Input with dropdown allows adding alphabatical characters in week/days/.. fields.
-- [ ] 
+
+## List
+- [ ] Put everything to the right
+- [ ] Move to new table 
+- [ ] Move to context menu
+- [ ] Start of Name header cell doesn't have padding while the values have.
