@@ -7,3 +7,4 @@
 
 ## List 
 - [ ] Active opening stock buttons
+- [ ] In create branch, if warehouse is used should show that the warehouse is used instead of removing it from the dropdown.

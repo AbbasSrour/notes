@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/ERP/Inventory/Opening Quantity.md",
+                "file": "Work/ERP/Settings/General.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Opening Quantity"
+              "title": "General"
             }
           }
         ]
@@ -286,8 +286,10 @@
   "lastOpenFiles": [
     "Work/ERP/Inventory/Item.md",
     "Work/ERP/Inventory/Opening Quantity.md",
-    "Work/ERP/Inventory/Stock Adjustment.md",
     "Work/ERP/Settings/Inventory.md",
+    "Work/ERP/Settings/General.md",
+    "Work/ERP/Accounting/Chart Of Account.md",
+    "Work/ERP/Inventory/Stock Adjustment.md",
     "Work/ERP/Misc/Form.md",
     "Work/ERP/Misc/Release.md",
     "Work/Galoper ERP.md",
@@ -300,8 +302,6 @@
     "Work/Ciatek Website.md",
     "Work/ERP/Supplier/Account.md",
     "Work/ERP/Supplier",
-    "Work/ERP/Accounting/Chart Of Account.md",
-    "Work/ERP/Settings/General.md",
     "Work/ERP/Settings",
     "Work/ERP/Accounting/Journal Voucher.md",
     "Work/ERP/Inventory",
