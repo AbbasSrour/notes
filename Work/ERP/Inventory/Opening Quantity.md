@@ -4,3 +4,6 @@
 - [ ] Moving from single to scan disables the the rows already created.
 - [ ] Returns 422 status missing on create
 - [ ] Remove barcode search field ????
+
+## List 
+- [ ] Active opening stock buttons
