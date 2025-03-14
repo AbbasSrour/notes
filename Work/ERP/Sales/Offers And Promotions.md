@@ -17,3 +17,5 @@
 - [ ] discountValueShouldBeLessThanSalesMaxDiscount error, translate it and gaurd against it
 - [ ] Promotion code type is selected Promotion Code Field Label should have an asterisk 
 - [ ] disable adding rows until promotion type and applies on is added
+- [ ] Offered Items operator is not choosing a field
+- [ ] Discount Value is not showing in "Buy One Get One And Bundle Offers"
