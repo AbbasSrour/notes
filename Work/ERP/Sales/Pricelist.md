@@ -4,3 +4,5 @@
 - [ ] Filter customer groups by region 
 - [ ] Add cost field in the details sections 
 - [ ] No error message on customer
+- [ ] Error message for Currency is undefiend
+- [ ] On Tab it should add a row in the details section
