@@ -15,4 +15,4 @@
 - [ ] appliesTo throws an error from the backend when selecting all customers 
 - [ ] Discount Value auto sets to 100, if it is a percentage name as a percentage also remove unit package
 - [ ] discountValueShouldBeLessThanSalesMaxDiscount error, translate it and gaurd against it
-- [ ] 
+- [ ] Promotion code type is selected Promotion Code Field Label should have an asterisk 
