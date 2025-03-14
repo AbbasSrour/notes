@@ -1,6 +1,0 @@
-- The app is an inventory app
-- They have a big inflow of products
-- When package of woods comes in, instead of manual storing, they fill the information for where it will be, and a qr code will be printed and sticked to the package of woods.
-- Data where collected from the employees.
-- The system has some questions in arabic and some things in english
-- The system questions should be in arabic.
