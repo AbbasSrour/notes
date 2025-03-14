@@ -6,3 +6,7 @@
 - [ ] No error message on customer
 - [ ] Error message for Currency is undefiend
 - [ ] On Tab it should add a row in the details section
+- [ ] It should be customers or customer groups
+- [ ] pricingMethodShouldBeProfit Error 
+- [ ] Taxes is required Error even when price list is retail
+- [ ] Can't submit when type is "Retail" && "Manual" & "Fixed"
