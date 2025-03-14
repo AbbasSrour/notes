@@ -19,3 +19,4 @@
 - [ ] disable adding rows until promotion type and applies on is added
 - [ ] Offered Items operator is not choosing a field
 - [ ] Discount Value is not showing in "Buy One Get One And Bundle Offers"
+- [ ] Add a promo code generate and copy button
