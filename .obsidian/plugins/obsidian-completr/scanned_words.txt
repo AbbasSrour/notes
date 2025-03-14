@@ -54,6 +54,7 @@ Track
 Two
 Tax
 They
+Taxes
 RAM
 Random
 Record
@@ -97,6 +98,7 @@ Relationships
 Required
 Returns
 Receipt
+Retail
 Model
 Machine
 MM
@@ -135,6 +137,7 @@ Minimum
 Months
 Moving
 Mobile
+Manual
 of
 or
 one
@@ -258,6 +261,7 @@ Category
 Close
 Cost
 Complaints
+Currency
 Definition
 Data
 Delete
@@ -669,6 +673,7 @@ shelf
 scan
 storing
 sticked
+stackable
 that
 takes
 time
@@ -1410,6 +1415,7 @@ uppercase
 useEffect
 useForm
 useFieldArray
+undefiend
 needed
 number
 not
@@ -2010,6 +2016,8 @@ refers
 received
 recieved
 rows
+region
+retail
 Best
 BREAK
 Backlinks
@@ -2192,6 +2200,7 @@ pickers
 pulse
 padding
 printed
+pricingMethodShouldBeProfit
 Family
 Find
 Finish
@@ -2264,6 +2273,7 @@ happening
 happened
 highlighting
 hypotenuse
+hover
 Properties
 Planner
 Pomodoro
@@ -2316,6 +2326,7 @@ Prevent
 Period
 Price
 Put
+Package
 It
 Ids
 Insert

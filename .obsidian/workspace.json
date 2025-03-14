@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/ERP/Sales/Pricelist.md",
+                "file": "Work/ERP/Sales/Offers And Promotions.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Pricelist"
+              "title": "Offers And Promotions"
             }
           }
         ]
@@ -285,8 +285,9 @@
   },
   "active": "1fd26bb3bbafb355",
   "lastOpenFiles": [
-    "Work/ERP/Purchase/Untitled.md",
     "Work/ERP/Sales/Pricelist.md",
+    "Work/ERP/Sales/Offers And Promotions.md",
+    "Work/ERP/Purchase/Untitled.md",
     "Work/ERP/Sales",
     "Work/ERP/Todo.md",
     "Work/ERP/Purchase/Requistion.md",
@@ -320,7 +321,6 @@
     "Cryptography/Cryptology.md",
     "Software Engineering/Use Case Diagram.md",
     "smart-chats/my first note.md",
-    "Software Engineering/UML Diagrams.md",
     "Misc/pf4-vscode.png",
     "Misc/pf7-vscode.png",
     "Misc/pf6-vscode.png",
