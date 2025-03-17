@@ -13,3 +13,4 @@
 - [ ] Filter items by the pricing method
 - [ ] Currency should be either primary or secondary currency
 - [ ] Add two more section one for pricing one for customers
+- [ ] 
