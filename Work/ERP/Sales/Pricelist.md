@@ -10,5 +10,6 @@
 - [ ] pricingMethodShouldBeProfit Error 
 - [ ] Taxes is required Error even when price list is retail
 - [ ] Can't submit when type is "Retail" && "Manual" & "Fixed"
-
 - [ ] Filter items by the pricing method
+- [ ] Currency should be either primary or secondary currency
+- [ ] 
