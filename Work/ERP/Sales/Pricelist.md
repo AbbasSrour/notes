@@ -1,7 +1,7 @@
 ## Form 
 - [ ] Package disabled if no package
 - [ ] Error on unit price but no message when hover
-- [ ] Filter customer groups by region 
+- [ ] Filter customer groups by region (not implemented yet)
 - [ ] Add cost field in the details sections 
 - [ ] No error message on customer
 - [ ] Error message for Currency is undefiend
