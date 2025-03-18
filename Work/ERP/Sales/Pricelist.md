@@ -28,4 +28,6 @@
 ## List
 - [ ] Reset To Draft should be under the edit action not last in the list.
 - [ ] Add Push To POS menu item for list item.
-- [ ] 
+- [ ] Move Price List Type to the start after description, remove the word pricelist and make it a badge 
+- [ ] Move Status to badges, with custom icons maybe
+- [ ] capitalization for the pricing method and type
