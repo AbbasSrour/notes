@@ -27,3 +27,6 @@
 - [ ] Atleast on Item is required toast spamming when I change the value of promotion type, or the pricelists
 - [ ] Move to the new customer api for the customer field in the header section
 - [ ] Add filters to the customer field children and isActive based on the documentation
+- [ ] Add percentage for fields that are discount percentage, lezim lwa7d y2dr yfari2 bynun
+- [ ] make the fields smaller
+- [ ] Use 
