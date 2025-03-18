@@ -30,3 +30,6 @@
 - [ ] Add percentage for fields that are discount percentage, lezim lwa7d y2dr yfari2 bynun
 - [ ] make the fields smaller
 - [ ] Add generate promo code button
+- [ ] smaller fields:
+- [ ] form variant 
+- [ ] 
