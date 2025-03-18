@@ -61,3 +61,6 @@
 - [ ] cancel action return 404
 - [ ] reset to draft returns 404
 - [ ] hide promo code when its not promo code type
+
+- [ ] api/v1/inventory/categories/ for categories instead of get categories in dropdown
+- [ ] required error for category
