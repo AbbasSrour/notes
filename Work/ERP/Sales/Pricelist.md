@@ -17,3 +17,4 @@
 - [ ] Pricing Method and Pricing Range should have required asterisk
 - [ ] Add Error Message for the customers and regions fields 
 - [ ] Disable the add entry field until everything is sorted out
+- [ ] Whole Sales + profit  + fixed +currency usd all fields are disabled but for the item
