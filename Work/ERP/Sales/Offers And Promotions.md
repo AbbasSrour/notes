@@ -29,4 +29,4 @@
 - [ ] Add filters to the customer field children and isActive based on the documentation
 - [ ] Add percentage for fields that are discount percentage, lezim lwa7d y2dr yfari2 bynun
 - [ ] make the fields smaller
-- [ ] Use 
+- [ ] Add generate promo code button
