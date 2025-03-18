@@ -13,4 +13,7 @@
 - [ ] Filter items by the pricing method
 - [ ] Currency should be either primary or secondary currency
 - [ ] Add two more section one for pricing one for customers
-- [ ] 
+- [ ] Pricing Method should have a warning popup
+- [ ] Pricing Method and Pricing Range should have required asterisk
+- [ ] Add Error Message for the customers and regions fields 
+- [ ] Disable the add entry field until everything is sorted out
