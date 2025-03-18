@@ -33,4 +33,4 @@
 - [ ] smaller fields:
 - [ ] form variant 
 - [ ] add a pop on each field to see the respective discount value per pricelist per item
-- [ ] 
+- [ ] Currency Field should only be Company Currency or Secondary if multicurrency is on, if not disable field 
