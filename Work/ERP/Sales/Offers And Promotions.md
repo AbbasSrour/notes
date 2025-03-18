@@ -36,3 +36,16 @@
 - [ ] Currency Field should only be Company Currency or Secondary if multicurrency is on, if not disable field 
 - [ ] Disable pricelist if pricelist is not enabled, and if enabled get the items from the pricelist
 - [ ] Disable add entry before applies on field
+- [ ] Item field needs required and error message in the details section
+- [ ] Toast for at least on item is required should happen on Save
+- [ ] For volume based Tab doesn't add a new row
+- [ ] For Fixed Amount Tab doesn't add a new row
+- [ ] For Percentage Tab doesn't add new row
+- [ ] Either remove the Discount Value Field in when Buy One Get One or disable it, don't return null
+- [ ] Can't select for Offered Items Operator
+- [ ] Offered items rows have errors by default when the popup is opened
+- [ ] Remove error message for the quantity field in the popup for the buy one get one 
+- [ ] Item package should be an input and disabled for the popup in the buy one get one
+- [ ] Tab doesn't work well in the popup, it should take me from item -> quantity
+- [ ] add a confirm and cancel buttons for the dialog and on confirm add the values to the form.
+- [ ] 
