@@ -32,4 +32,5 @@
 - [ ] Add generate promo code button
 - [ ] smaller fields:
 - [ ] form variant 
+- [ ] add a pop on each field to see the respective discount value per pricelist per item
 - [ ] 
