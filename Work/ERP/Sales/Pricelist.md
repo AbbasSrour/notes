@@ -19,3 +19,4 @@
 - [ ] Disable the add entry field until everything is sorted out
 - [ ] Whole Sales + profit  + fixed +currency usd all fields are disabled but for the item
 - [ ] Make rates sticky left and smaller with profit and unit price before them, also the fields should be prefilled and disabled based on the currency.
+- [ ] Make the details section field smaller 
