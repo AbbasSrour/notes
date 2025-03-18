@@ -4,6 +4,8 @@
 - [ ] Make description the second field, make sure description is hoverable 
 - [ ] Add column hover
 - [ ] filters not working
+- [ ] Add Status Column make it last column
+- [ ] Add cancel action
 
 ## Form
 - [ ] Swap the positions of Save and Save As Draft
@@ -50,4 +52,11 @@
 - [ ] add a confirm and cancel buttons for the dialog and on confirm add the values to the form.
 - [ ] Differentiate in the header between a hard value and a percentage especially in the offered value type.
 - [ ] Tab doesn't add a new row in Order Value
+- [ ] Time Sensitive Offers needs more expanding upon
+- [ ] Bundle Offers needs more expanding on
+- [ ] Promotion Code needs to be required when promotion type is promotion code, pending checking if it should be visible when the type is anything different than promotion codes
+- [ ] No Add new row on Tab for Promotion Codes type
+- [ ] No Add new row on Tab for Time Sensitive type
+- [ ] Add Reset To Draft and cancel Actions
+- [ ] delete returns 404
 - [ ] 
