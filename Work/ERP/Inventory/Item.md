@@ -21,3 +21,10 @@
 - [ ] Move to new table 
 - [ ] Move to context menu
 - [ ] Start of Name header cell doesn't have padding while the values have.
+
+
+
+###### 18/2/2025
+## Form 
+- [ ] Guard against costStrategyInvalidChoice and add the translations.
+- [ ] 

@@ -99,6 +99,7 @@ Required
 Returns
 Receipt
 Retail
+Range
 Model
 Machine
 MM
@@ -138,6 +139,8 @@ Months
 Moving
 Mobile
 Manual
+Method
+Message
 of
 or
 one
@@ -190,6 +193,8 @@ optional
 optionally
 opposite
 option
+offers
+operator
 Computation
 Calculating
 Complexity
@@ -310,6 +315,9 @@ Department
 Details
 Default
 Debtor
+Draft
+Discount
+Disable
 model
 made
 maximum
@@ -480,6 +488,7 @@ Algorithms
 Asymmetric
 Assets
 Active
+Applies
 specifies
 statements
 set
@@ -674,6 +683,7 @@ scan
 storing
 sticked
 stackable
+selected
 that
 takes
 time
@@ -798,6 +808,7 @@ tabs
 transparent
 tabing
 tooltip
+translate
 every
 executes
 efficiency
@@ -896,6 +907,7 @@ expression
 explore
 employees
 english
+errror
 computer
 calls
 costs
@@ -1327,6 +1339,9 @@ alphabetical
 accounts
 alphabatical
 arabic
+appliesTo
+against
+applies
 where
 worst
 when
@@ -1417,6 +1432,8 @@ useEffect
 useForm
 useFieldArray
 undefiend
+until
+usd
 needed
 number
 not
@@ -1530,6 +1547,7 @@ functionalities
 feelings
 family
 fill
+fixed
 Subroutine
 Start
 Selection
@@ -1608,6 +1626,7 @@ Specs
 Specification
 Sales
 Styles
+Swap
 loops
 loop
 link
@@ -1773,6 +1792,7 @@ Web
 Warranty
 Weight
 Width
+Whole
 defined
 data
 deletions
@@ -1891,6 +1911,7 @@ discount
 disables
 documentName
 disappearing
+discountValueShouldBeLessThanSalesMaxDiscount
 represented
 reason
 reflects
@@ -2043,6 +2064,7 @@ Be
 Based
 Barcode
 Brand
+Buy
 Generally
 Get
 Gläser
@@ -2204,6 +2226,11 @@ padding
 printed
 pricingMethodShouldBeProfit
 pricing
+positions
+prefilled
+promotion
+promo
+profit
 Family
 Find
 Finish
@@ -2278,6 +2305,7 @@ happened
 highlighting
 hypotenuse
 hover
+hoverable
 Properties
 Planner
 Pomodoro
@@ -2331,6 +2359,7 @@ Period
 Price
 Put
 Package
+Pricing
 It
 Ids
 Insert
@@ -2381,6 +2410,7 @@ Information
 ID
 Inheritance
 Includes
+Items
 Every
 Execute
 Event
@@ -2526,6 +2556,7 @@ getting
 giving
 group
 goes
+gaurd
 query
 quote
 quality
@@ -2615,6 +2646,8 @@ OpenTelemetry
 OpenTracing
 OpenCencus
 OO
+Offered
+Offers
 Journal
 Jump
 Java
