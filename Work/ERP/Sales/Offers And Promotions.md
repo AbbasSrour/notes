@@ -48,4 +48,6 @@
 - [ ] Item package should be an input and disabled for the popup in the buy one get one
 - [ ] Tab doesn't work well in the popup, it should take me from item -> quantity
 - [ ] add a confirm and cancel buttons for the dialog and on confirm add the values to the form.
+- [ ] Differentiate in the header between a hard value and a percentage especially in the offered value type.
+- [ ] Tab doesn't add a new row in Order Value
 - [ ] 
