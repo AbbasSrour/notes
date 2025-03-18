@@ -57,6 +57,7 @@
 - [ ] Promotion Code needs to be required when promotion type is promotion code, pending checking if it should be visible when the type is anything different than promotion codes
 - [ ] No Add new row on Tab for Promotion Codes type
 - [ ] No Add new row on Tab for Time Sensitive type
-- [ ] Add Reset To Draft and cancel Actions
 - [ ] delete returns 404
+- [ ] cancel action return 404
+- [ ] reset to draft returns 404
 - [ ] 
