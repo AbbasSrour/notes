@@ -23,6 +23,7 @@
 - [ ] For profit fields we should have another column that shows the final price, or in the case of range min price and max price, usd and company
 - [ ] change to form variant with smaller columns
 - [ ] Error required number received NAN for multuple fields when trying to save
+- [ ] customerGroupMismatch translate and guard against
 
 ## List
 - [ ] Reset To Draft should be under the edit action not last in the list.
