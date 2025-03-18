@@ -22,3 +22,4 @@
 - [ ] Make the details section field smaller 
 - [ ] For profit fields we should have another column that shows the final price, or in the case of range min price and max price, usd and company
 - [ ] change to form variant with smaller columns
+- [ ] Error required number received NAN for multuple fields when trying to save
