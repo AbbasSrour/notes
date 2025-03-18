@@ -23,3 +23,7 @@
 - [ ] You are not filtering by the status in the pricelist field in the header section, do submitted and posted
 - [ ] appliesTo is required even though the promotion type is of type order_value
 - [ ] Move Price Lists to before appliesTo and make the customer or group directly next to the field
+- [ ] Clear customer groups and customers when changing appliesTo and add a warning popup
+- [ ] Atleast on Item is required toast spamming when I change the value of promotion type, or the pricelists
+- [ ] Move to the new customer api for the customer field in the header section
+- [ ] Add filters to the customer field children and isActive based on the documentation
