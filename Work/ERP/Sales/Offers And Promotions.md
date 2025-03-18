@@ -21,4 +21,3 @@
 - [ ] Discount Value is not showing in "Buy One Get One And Bundle Offers"
 - [ ] Add a promo code generate and copy button
 - [ ] You are not filtering by the status in the pricelist field in the header section, do submitted and posted
-- [ ] 
