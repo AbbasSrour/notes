@@ -26,4 +26,4 @@
 
 ## List
 - [ ] Reset To Draft should be under the edit action not last in the list
-- [ ] 
+- [ ] Add Push To POS menu item for 
