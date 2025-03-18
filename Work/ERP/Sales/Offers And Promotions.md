@@ -14,7 +14,7 @@
 - [ ] can save with no items in details section
 - [ ] appliesTo throws an error from the backend when selecting all customers 
 - [ ] Discount Value auto sets to 100, if it is a percentage name as a percentage also remove unit package
-- [ ] discountValueShouldBeLessThanSalesMaxDiscount error, translate it and gaurd against it
+- [ ] discountValueShouldBeLessThanSalesMaxDiscount error, translate it and gaurd against it (recheck not fixed)
 - [ ] Promotion code type is selected Promotion Code Field Label should have an asterisk 
 - [ ] disable adding rows until promotion type and applies on is added
 - [ ] Offered Items operator is not choosing a field
