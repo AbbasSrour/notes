@@ -60,4 +60,4 @@
 - [ ] delete returns 404
 - [ ] cancel action return 404
 - [ ] reset to draft returns 404
-- [ ] 
+- [ ] hide promo code when its not promo code type
