@@ -25,5 +25,6 @@
 - [ ] Error required number received NAN for multuple fields when trying to save
 
 ## List
-- [ ] Reset To Draft should be under the edit action not last in the list
-- [ ] Add Push To POS menu item for 
+- [ ] Reset To Draft should be under the edit action not last in the list.
+- [ ] Add Push To POS menu item for list item.
+- [ ] 
