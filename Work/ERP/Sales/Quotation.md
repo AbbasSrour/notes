@@ -4,4 +4,4 @@
 - [ ] Recognition Start Date: The date should be greater than the current date and greater than the date of the quotation, the recognition start date cannot start in the past.
 - [ ] No error message on customer branch when choosing company and not having a customer branch.
 - [ ] Add offers filter
-- [ ] Disable discount field if promotions exist, 
+- [ ] Disable discount field if promotions exist, if discount exists offers should not be set, do a switch statement
