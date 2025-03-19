@@ -19,4 +19,8 @@
 - [ ] In item details either offer or discount
 - [ ] Choosing taxes throws an error
 - [ ] Can be saved with 0 items
-- [ ] 
+- [ ] Can't focus offers
+- [ ] left on pricelist to remove it
+- [ ] priceListDisabled gaurd against this issue and translate  it
+- [ ] eitherDiscountOrOffersAndPromotions gaiu
+promotionsAndOffersDoesNotExist
