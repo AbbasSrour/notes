@@ -9,4 +9,5 @@
 - [ ] Fix the layout for the quotation
 - [ ] Add tax field when customer is resident and group it with customer
 - [ ] Remove gap between the table and the footer
-- [ ] 
+- [ ] Field resets when quick tabbing between fields
+- [ ] Disable package, when uom 
