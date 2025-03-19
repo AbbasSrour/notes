@@ -7,4 +7,6 @@
 - [ ] Disable discount field if promotions exist, if discount exists offers should not be set, do a switch statement
 - [ ] Attachments should be a full height field
 - [ ] Fix the layout for the quotation
+- [ ] Add tax field when customer is resident and group it with customer
+- [ ] Remove gap between the table and the footer
 - [ ] 
