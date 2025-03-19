@@ -10,4 +10,9 @@
 - [ ] Add tax field when customer is resident and group it with customer
 - [ ] Remove gap between the table and the footer
 - [ ] Field resets when quick tabbing between fields
-- [ ] Disable package, when uom 
+- [ ] Disable package, when uom is selected, disable when uom when package is selected.
+- [ ] Disable package deposit charge when package is not selected.
+- [ ] re-order the columns of the details section in the standard layout 
+- [ ] Quantity should be more than zero
+- [ ] Unit of measure should be more optional 
+- [ ] Get the package deposit charge when 
