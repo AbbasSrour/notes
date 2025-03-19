@@ -195,6 +195,8 @@ opposite
 option
 offers
 operator
+opened
+offered
 Computation
 Calculating
 Complexity
@@ -267,6 +269,9 @@ Close
 Cost
 Complaints
 Currency
+Column
+Clear
+Codes
 Definition
 Data
 Delete
@@ -318,6 +323,7 @@ Debtor
 Draft
 Discount
 Disable
+Differentiate
 model
 made
 maximum
@@ -427,6 +433,7 @@ meant
 mind
 measures
 missing
+multicurrency
 Access
 Average
 Analysis
@@ -489,6 +496,8 @@ Asymmetric
 Assets
 Active
 Applies
+Atleast
+Amount
 specifies
 statements
 set
@@ -684,6 +693,7 @@ storing
 sticked
 stackable
 selected
+spamming
 that
 takes
 time
@@ -809,6 +819,7 @@ transparent
 tabing
 tooltip
 translate
+though
 every
 executes
 efficiency
@@ -908,6 +919,7 @@ explore
 employees
 english
 errror
+enabled
 computer
 calls
 costs
@@ -1093,6 +1105,8 @@ causes
 creditor
 cell
 comes
+codes
+categories
 is
 instruction
 instance
@@ -1196,6 +1210,7 @@ included
 interested
 inflow
 implemented
+isActive
 an
 algorithm
 as
@@ -1548,6 +1563,7 @@ feelings
 family
 fill
 fixed
+filtering
 Subroutine
 Start
 Selection
@@ -1627,6 +1643,7 @@ Specification
 Sales
 Styles
 Swap
+Sensitive
 loops
 loop
 link
@@ -1705,6 +1722,8 @@ linear
 label
 life
 loadMoreItems
+lezim
+lwa
 but
 by
 best
@@ -1769,6 +1788,8 @@ boundaries
 bundling
 brand
 big
+bynun
+buy
 Worst
 We
 Where
@@ -1912,6 +1933,8 @@ disables
 documentName
 disappearing
 discountValueShouldBeLessThanSalesMaxDiscount
+dr
+dialog
 represented
 reason
 reflects
@@ -2041,6 +2064,7 @@ recieved
 rows
 region
 retail
+respective
 Best
 BREAK
 Backlinks
@@ -2231,6 +2255,10 @@ prefilled
 promotion
 promo
 profit
+pricelist
+posted
+pricelists
+pending
 Family
 Find
 Finish
@@ -2306,6 +2334,7 @@ highlighting
 hypotenuse
 hover
 hoverable
+hard
 Properties
 Planner
 Pomodoro
@@ -2440,6 +2469,7 @@ Exports
 Extends
 Expected
 Expenses
+Either
 Keys
 Key
 KB
@@ -2486,6 +2516,7 @@ visibility
 variant
 visible
 visual
+volume
 Leaf
 Link
 Lead
@@ -2626,6 +2657,7 @@ yet
 your
 youtube
 yourself
+yfari
 Open
 Optimization
 Ofcourse
@@ -2648,6 +2680,7 @@ OpenCencus
 OO
 Offered
 Offers
+Operator
 Journal
 Jump
 Java
