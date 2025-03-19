@@ -6,3 +6,5 @@
 - [ ] Add offers filter
 - [ ] Disable discount field if promotions exist, if discount exists offers should not be set, do a switch statement
 - [ ] Attachments should be a full height field
+- [ ] Fix the layout for the quotation
+- [ ] 
