@@ -21,6 +21,6 @@
 - [ ] Can be saved with 0 items
 - [ ] Can't focus offers
 - [ ] left on pricelist to remove it
-- [ ] priceListDisabled gaurd against this issue and translate  it
-- [ ] eitherDiscountOrOffersAndPromotions gaiu
-promotionsAndOffersDoesNotExist
+- [ ] priceListDisabled guard against this issue and translate  it
+- [ ] eitherDiscountOrOffersAndPromotions guard against and translate it
+- [ ] promotionsAndOffersDoesNotExist guard against and translate it
