@@ -5,3 +5,4 @@
 - [ ] No error message on customer branch when choosing company and not having a customer branch.
 - [ ] Add offers filter
 - [ ] Disable discount field if promotions exist, if discount exists offers should not be set, do a switch statement
+- [ ] Attachments should be a full height field
