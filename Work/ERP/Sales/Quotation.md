@@ -18,3 +18,5 @@
 - [ ] Get the package deposit charge when 
 - [ ] In item details either offer or discount
 - [ ] Choosing taxes throws an error
+- [ ] Can be saved with 0 items
+- [ ] 
