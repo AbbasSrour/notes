@@ -26,9 +26,10 @@
 - [ ] promotionsAndOffersDoesNotExist guard against and translate it
 - [ ] quick tab on quantity resets it
 - [ ] add actions for the view/edit page export, cancel ...
+- [ ] Remove columns from column visibility
 
 
 ## List 
 - [ ] Reduce row height 
 - [ ] Use status badge component
-- [ ] Put description 
+- [ ] Put description second to quotation
