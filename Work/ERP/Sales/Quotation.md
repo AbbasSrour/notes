@@ -24,3 +24,4 @@
 - [ ] priceListDisabled guard against this issue and translate  it
 - [ ] eitherDiscountOrOffersAndPromotions guard against and translate it
 - [ ] promotionsAndOffersDoesNotExist guard against and translate it
+- [ ] quick tab on quantity resets it
