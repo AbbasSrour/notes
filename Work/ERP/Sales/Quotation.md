@@ -16,3 +16,5 @@
 - [ ] Quantity should be more than zero
 - [ ] Unit of measure should be more optional 
 - [ ] Get the package deposit charge when 
+- [ ] In item details either offer or discount
+- [ ] Choosing taxes throws an error
