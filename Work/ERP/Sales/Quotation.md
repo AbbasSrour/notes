@@ -25,3 +25,10 @@
 - [ ] eitherDiscountOrOffersAndPromotions guard against and translate it
 - [ ] promotionsAndOffersDoesNotExist guard against and translate it
 - [ ] quick tab on quantity resets it
+- [ ] add actions for the view/edit page export, cancel ...
+
+
+## List 
+- [ ] Reduce row height 
+- [ ] Use status badge component
+- [ ] Put description 
