@@ -25,6 +25,11 @@
 - [ ] Error required number received NAN for multuple fields when trying to save
 - [ ] customerGroupMismatch translate and guard against
 
+--- 20-3-2025 3:51
+- [ ] Taxes required error, should be allowed to have no taxes
+- [ ] Choose between customer or customer group
+- [ ] 
+
 ## List
 - [ ] Reset To Draft should be under the edit action not last in the list.
 - [ ] Add Push To POS menu item for list item.
