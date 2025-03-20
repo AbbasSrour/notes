@@ -27,6 +27,7 @@
 
 --- 20-3-2025 3:51
 - [ ] Choose between customer or customer group
+- [ ] Pricing Method change should clear the items or should clear the unit price - profit.
 - [ ] 
 
 ## List
