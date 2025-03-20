@@ -26,7 +26,6 @@
 - [ ] customerGroupMismatch translate and guard against
 
 --- 20-3-2025 3:51
-- [ ] Taxes required error, should be allowed to have no taxes
 - [ ] Choose between customer or customer group
 - [ ] 
 
