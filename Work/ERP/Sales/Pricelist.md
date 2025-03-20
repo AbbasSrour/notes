@@ -30,6 +30,7 @@
 - [ ] Pricing Method change should clear the items or should clear the unit price - profit.
 - [ ] Add row on Tab
 - [ ] Changing item should clear the row
+- [ ] rates should be strings
 
 ## List
 - [ ] Reset To Draft should be under the edit action not last in the list.

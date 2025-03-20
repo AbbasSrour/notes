@@ -276,6 +276,8 @@ Column
 Clear
 Codes
 Choosing
+Choose
+Changing
 Definition
 Data
 Delete
