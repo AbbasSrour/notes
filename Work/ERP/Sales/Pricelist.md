@@ -28,7 +28,8 @@
 --- 20-3-2025 3:51
 - [ ] Choose between customer or customer group
 - [ ] Pricing Method change should clear the items or should clear the unit price - profit.
-- [ ] 
+- [ ] Add row on Tab
+- [ ] Changing item should clear the row
 
 ## List
 - [ ] Reset To Draft should be under the edit action not last in the list.
