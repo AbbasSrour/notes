@@ -5,6 +5,7 @@
 - [ ] Can't edit because of tax 
 - [ ] sellingUnitEnum placeholder on edit page
 - [ ] Date Field is getting larger
+- [ ] Hide the rate fields based on currency
 
 ## List
 - [ ] View Action repeated two times.
