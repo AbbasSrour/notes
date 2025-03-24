@@ -12,6 +12,9 @@
 - [ ] Customer should reset the quotation and the rest of the fields, with popup
 - [ ] Recognition frequency throws required errror even if isDeferal is off (you need to turn deferral on then off for it to work)
 - [ ] quantity should be foramtted by unit of measure
+- [ ] allows you to save with no item
+- [ ] remove row error (id fix)
+- [ ] Quantity field tab sets the value to zero
 
 ## List
 - [ ] View Action repeated two times.
