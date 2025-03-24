@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/ERP/Sales/Pricelist.md",
+                "file": "Work/ERP/Sales/Offers And Promotions.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Pricelist"
+              "title": "Offers And Promotions"
             }
           }
         ]
@@ -285,10 +285,10 @@
   },
   "active": "1fd26bb3bbafb355",
   "lastOpenFiles": [
+    "Work/ERP/Sales/Pricelist.md",
     "Work/ERP/Sales/Order.md",
     "Work/ERP/Todo.md",
     "Work/ERP/Sales/Quotation.md",
-    "Work/ERP/Sales/Pricelist.md",
     "Work/ERP/Sales/Offers And Promotions.md",
     "Work/ERP/Inventory/Item.md",
     "Work/ERP/Purchase/Order.md",
