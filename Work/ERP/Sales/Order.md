@@ -4,6 +4,7 @@
 - [ ] Tax is not showing when edit or view
 - [ ] Can't edit because of tax 
 - [ ] sellingUnitEnum placeholder on edit page
+- [ ] Date Field is getting larger
 
 ## List
 - [ ] View Action repeated two times.
