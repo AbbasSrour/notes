@@ -5,4 +5,6 @@
 - [ ] Can't edit because of tax 
 - [ ] sellingUnitEnum placeholder on edit page
 
-## 
+## List
+- [ ] View Action repeated two times.
+- [ ] 
