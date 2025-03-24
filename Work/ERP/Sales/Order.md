@@ -9,7 +9,8 @@
 - [ ] disabled promotion & offers if discount is enabled reverse if not
 - [ ] disable offers header field in view page 
 - [ ] disable offers table cell in view page
+- [ ] Customer should reset the quotation and the rest of the fields, with popup
 
 ## List
 - [ ] View Action repeated two times.
-- [ ] 
+- [ ] Status tag full width and and colored
