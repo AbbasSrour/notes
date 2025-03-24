@@ -10,6 +10,8 @@
 - [ ] disable offers header field in view page 
 - [ ] disable offers table cell in view page
 - [ ] Customer should reset the quotation and the rest of the fields, with popup
+- [ ] Recognition frequency throws required errror even if isDeferal is off (you need to turn deferral on then off for it to work)
+- [ ] quantity should be foramtted by unit of measure
 
 ## List
 - [ ] View Action repeated two times.
