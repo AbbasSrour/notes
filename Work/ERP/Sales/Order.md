@@ -6,7 +6,9 @@
 - [ ] sellingUnitEnum placeholder on edit page
 - [ ] Date Field is getting larger
 - [ ] Hide the rate fields based on currency
-- [ ] disabled promotion & offers if discount 
+- [ ] disabled promotion & offers if discount is enabled reverse if not
+- [ ] disable offers header field in view page 
+- [ ] disable offers table cell in view page
 
 ## List
 - [ ] View Action repeated two times.
