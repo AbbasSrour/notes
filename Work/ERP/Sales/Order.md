@@ -3,4 +3,4 @@
 - [ ] Format the Discount Field in the header
 - [ ] Tax is not showing when edit or view
 - [ ] Can't edit because of tax 
-- [ ] SellingUnitEnum placeholder on edit page
+- [ ] sellingUnitEnum placeholder on edit page
