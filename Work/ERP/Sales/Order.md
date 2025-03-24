@@ -6,7 +6,7 @@
 - [ ] sellingUnitEnum placeholder on edit page
 - [ ] Date Field is getting larger
 - [ ] Hide the rate fields based on currency
-- [ ] 
+- [ ] disabled promotion & offers if discount 
 
 ## List
 - [ ] View Action repeated two times.
