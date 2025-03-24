@@ -28,6 +28,8 @@
 - [ ] add actions for the view/edit page export, cancel ...
 - [ ] Remove columns from column visibility
 
+- [ ] Taxes field disabled
+
 
 ## List 
 - [ ] Reduce row height 

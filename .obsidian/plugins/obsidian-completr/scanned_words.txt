@@ -102,6 +102,7 @@ Receipt
 Retail
 Range
 Recognition
+Reduce
 Model
 Machine
 MM
@@ -931,6 +932,8 @@ employees
 english
 errror
 enabled
+eitherDiscountOrOffersAndPromotions
+export
 computer
 calls
 costs
@@ -1373,6 +1376,7 @@ appliesTo
 against
 applies
 active
+actions
 where
 worst
 when
@@ -2282,6 +2286,8 @@ pricelist
 posted
 pricelists
 pending
+priceListDisabled
+promotionsAndOffersDoesNotExist
 Family
 Find
 Finish
