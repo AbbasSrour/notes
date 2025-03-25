@@ -32,4 +32,8 @@
 
 8 - السلفية - الشيخ الخميس:  
 - عمر يقاتل الجن: https://www.facebook.com/100063760973704/videos/-%D9%81%D9%82%D8%B1%D8%A9-%D9%83%D8%B1%D8%A7%D9%85%D8%A7%D8%AA-%D8%B9%D9%85%D8%B1-%D8%A8%D9%86-%D8%A7%D9%84%D8%AE%D8%B7%D8%A7%D8%A8-%D9%85%D9%86-%D8%AA%D8%AE%D8%A7%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D8%B3%D9%86%D8%A9-%D9%83%D9%85%D8%A7-%D8%B1%D8%A3%D9%8A%D9%86%D8%A7-%D9%81%D9%8A-%D8%A3%D8%AD%D8%AF-%D8%A7%D9%84%D9%85%D9%86%D8%B4%D9%88%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%B3%D8%A7%D8%A8%D9%82%D8%A9-%D9%81%D9%82/1074997234239416/
+
+9  -  السلفية- الالباني:
+- مؤسس الدعوه السلفيه هو الله: https://drive.google.com/file/d/0B3ox5mpe2iVVOW5hU1liWUlYcEk/view
+- قول صدق الله العظيم من البدع وكل بدعه ضلاله وكل ضلاله في النار: https://drive.google.com/file/d/0B3ox5mpe2iVVR2NyUWVYTzJKV2M/view
 - 
