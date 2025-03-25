@@ -36,4 +36,4 @@
 9  -  السلفية- الالباني:
 - مؤسس الدعوه السلفيه هو الله: https://drive.google.com/file/d/0B3ox5mpe2iVVOW5hU1liWUlYcEk/view
 - قول صدق الله العظيم من البدع وكل بدعه ضلاله وكل ضلاله في النار: https://drive.google.com/file/d/0B3ox5mpe2iVVR2NyUWVYTzJKV2M/view
-- 
+- لايجوز اقامة محاضرات في راس السنه الميلاديه وتتحدث عن المسيح عليه السلام لدعوة النصارى الى اعتناق الاسلام وفهمه: https://drive.google.com/file/d/0B3ox5mpe2iVVOThuRC1MeVgxRTQ/view
