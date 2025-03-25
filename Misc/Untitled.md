@@ -40,3 +40,7 @@
 - الوقوف وتحيت علم البلاد حرام: https://drive.google.com/file/d/0B3ox5mpe2iVVRzl1X0d2T3VXRHM/view?resourcekey=0-pMNpV2S3PAMKecub0L0llA
 - عند الالباني لايجوز تقبيل المصحف الشريف لانه من محدثات الامور والمحدث يدخل بباب البدعه وكل بدعه ضلاله وكل ضلاله في النار: https://drive.google.com/file/d/0B3ox5mpe2iVVaXJIa210MzFLYm8/view
 - العطله يوم الجمعه من البدع: https://drive.google.com/file/d/0B3ox5mpe2iVVWFRQdU9aR1RvRGc/view
+
+## Resources
+-  https://wathaieq.blogspot.com/p/blog-page_2659.html
+- 

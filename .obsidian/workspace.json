@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Misc/Untitled.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
@@ -283,10 +283,12 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "1fd26bb3bbafb355",
+  "active": "a174f4000dc4d363",
   "lastOpenFiles": [
+    "Untitled 1.md",
+    "Misc/Untitled.md",
+    "Misc",
     "Work/ERP/Sales/Invoice.md",
-    "Untitled.md",
     "Work/ERP/Sales/Order.md",
     "Work/ERP/Sales/Pricelist.md",
     "Work/ERP/Sales/Quotation.md",
@@ -313,14 +315,11 @@
     "Work/ERP/Misc/Untitled",
     "Work/ERP/Misc/Actions.md",
     "Work/ERP/Misc",
-    "Work/Ciatek Website.md",
-    "Work/ERP/Supplier/Account.md",
     "Work/ERP/Supplier",
     "Work/ERP/Settings",
     "Work/ERP/Inventory",
     "Work/ERP/Purchase",
     "Work/ERP/Accounting",
-    "Work/ERP",
     "Misc/pf4-vscode.png",
     "Misc/pf7-vscode.png",
     "Misc/pf6-vscode.png",
