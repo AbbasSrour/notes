@@ -37,3 +37,6 @@
 - مؤسس الدعوه السلفيه هو الله: https://drive.google.com/file/d/0B3ox5mpe2iVVOW5hU1liWUlYcEk/view
 - قول صدق الله العظيم من البدع وكل بدعه ضلاله وكل ضلاله في النار: https://drive.google.com/file/d/0B3ox5mpe2iVVR2NyUWVYTzJKV2M/view
 - لايجوز اقامة محاضرات في راس السنه الميلاديه وتتحدث عن المسيح عليه السلام لدعوة النصارى الى اعتناق الاسلام وفهمه: https://drive.google.com/file/d/0B3ox5mpe2iVVOThuRC1MeVgxRTQ/view
+- الوقوف وتحيت علم البلاد حرام: https://drive.google.com/file/d/0B3ox5mpe2iVVRzl1X0d2T3VXRHM/view?resourcekey=0-pMNpV2S3PAMKecub0L0llA
+- عند الالباني لايجوز تقبيل المصحف الشريف لانه من محدثات الامور والمحدث يدخل بباب البدعه وكل بدعه ضلاله وكل ضلاله في النار: https://drive.google.com/file/d/0B3ox5mpe2iVVaXJIa210MzFLYm8/view
+- العطله يوم الجمعه من البدع: https://drive.google.com/file/d/0B3ox5mpe2iVVWFRQdU9aR1RvRGc/view
