@@ -43,4 +43,8 @@
 
 ## Resources
 -  https://wathaieq.blogspot.com/p/blog-page_2659.html
-- 
+- [https://www.yahosein.com/vb/node/199054](https://www.yahosein.com/vb/node/199054)  
+- [http://www.yahosein.com/vb/showthread.php?t=193445](http://www.yahosein.com/vb/showthread.php?t=193445)  
+- [https://www.yahosein.com/vb/node/12904](https://www.yahosein.com/vb/node/12904)  
+- [https://www.facebook.com/ALMUSAWI313/posts/%D9%81%D8%B6%D8%A7%D8%A6%D8%AD-%D8%A7%D9%84%D8%B5%D8%AD%D8%A7%D8%A8%D8%A9-%D9%83%D9%81%D8%B1-%D9%88%D8%B2%D9%86%D8%AF%D9%82%D8%A9-%D9%86%D9%86%D9%82%D9%84-%D9%84%D9%83%D9%85-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%B1%D9%88%D8%A7%D9%8A%D8%A7%D8%AA-%D9%85%D9%86-%D8%A3%D8%B5%D8%AD-%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A7%D8%AA-%D9%88%D9%85%D9%86-%D8%A3%D8%B4%D9%87%D8%B1-%D9%88%D8%A3%D8%B5%D8%AD-%D8%A7%D9%84%D9%83/2240136062892984/](https://www.facebook.com/ALMUSAWI313/posts/%D9%81%D8%B6%D8%A7%D8%A6%D8%AD-%D8%A7%D9%84%D8%B5%D8%AD%D8%A7%D8%A8%D8%A9-%D9%83%D9%81%D8%B1-%D9%88%D8%B2%D9%86%D8%AF%D9%82%D8%A9-%D9%86%D9%86%D9%82%D9%84-%D9%84%D9%83%D9%85-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%B1%D9%88%D8%A7%D9%8A%D8%A7%D8%AA-%D9%85%D9%86-%D8%A3%D8%B5%D8%AD-%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A7%D8%AA-%D9%88%D9%85%D9%86-%D8%A3%D8%B4%D9%87%D8%B1-%D9%88%D8%A3%D8%B5%D8%AD-%D8%A7%D9%84%D9%83/2240136062892984/)  
+- [https://shi3et-3li.alafdal.net/t92-topic](https://shi3et-3li.alafdal.net/t92-topic)
