@@ -103,6 +103,7 @@ Retail
 Range
 Recognition
 Reduce
+Resources
 Model
 Machine
 MM
