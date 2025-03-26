@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/ERP/Sales/Return Order.md",
+                "file": "Work/ERP/Sales/Invoice.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Return Order"
+              "title": "Invoice"
             }
           }
         ]
@@ -285,15 +285,15 @@
   },
   "active": "1fd26bb3bbafb355",
   "lastOpenFiles": [
-    "Work/ERP/Sales/Invoice.md",
     "Work/ERP/Sales/Return Order.md",
+    "Work/ERP/Sales/Quotation.md",
+    "Work/ERP/Sales/Pricelist.md",
+    "Work/ERP/Sales/Order.md",
+    "Work/ERP/Sales/Offers And Promotions.md",
+    "Work/ERP/Sales/Invoice.md",
     "Misc/Untitled.md",
     "Untitled 1.md",
     "Misc",
-    "Work/ERP/Sales/Order.md",
-    "Work/ERP/Sales/Pricelist.md",
-    "Work/ERP/Sales/Quotation.md",
-    "Work/ERP/Sales/Offers And Promotions.md",
     "Work/ERP/Todo.md",
     "Work/ERP/Inventory/Item.md",
     "Work/ERP/Purchase/Order.md",

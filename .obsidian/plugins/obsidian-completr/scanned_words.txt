@@ -202,6 +202,7 @@ operator
 opened
 offered
 offer
+onto
 Computation
 Calculating
 Complexity
@@ -280,6 +281,9 @@ Codes
 Choosing
 Choose
 Changing
+Confirmation
+Cannot
+Combobox
 Definition
 Data
 Delete
@@ -507,6 +511,7 @@ Active
 Applies
 Atleast
 Amount
+Action
 specifies
 statements
 set
@@ -704,6 +709,8 @@ stackable
 selected
 spamming
 switch
+sellingUnitEnum
+supplier
 that
 takes
 time
@@ -833,6 +840,7 @@ though
 thg
 tabbing
 taxes
+turn
 every
 executes
 efficiency
@@ -1125,6 +1133,7 @@ categories
 customerGroupMismatch
 capitalization
 charge
+colored
 is
 instruction
 instance
@@ -1230,6 +1239,9 @@ inflow
 implemented
 isActive
 icons
+isDeferal
+invoices
+invoice
 an
 algorithm
 as
@@ -1587,6 +1599,8 @@ fill
 fixed
 filtering
 filter
+foramtted
+filtered
 Subroutine
 Start
 Selection
@@ -1814,6 +1828,7 @@ big
 bynun
 buy
 badges
+besides
 Worst
 We
 Where
@@ -1838,6 +1853,7 @@ Warranty
 Weight
 Width
 Whole
+Why
 defined
 data
 deletions
@@ -1962,6 +1978,7 @@ dialog
 deffered
 defferred
 deposit
+deferral
 represented
 reason
 reflects
@@ -2094,6 +2111,8 @@ retail
 respective
 resident
 resets
+reverse
+repeated
 Best
 BREAK
 Backlinks
@@ -2290,6 +2309,8 @@ pricelists
 pending
 priceListDisabled
 promotionsAndOffersDoesNotExist
+props
+placeholder
 Family
 Find
 Finish
@@ -2313,6 +2334,7 @@ From
 Flags
 Facilities
 Fill
+Format
 keeps
 keys
 key
@@ -2366,6 +2388,7 @@ hypotenuse
 hover
 hoverable
 hard
+hitting
 Properties
 Planner
 Pomodoro
@@ -2420,6 +2443,7 @@ Price
 Put
 Package
 Pricing
+Promotions
 It
 Ids
 Insert
@@ -2634,6 +2658,7 @@ quantity
 questions
 qr
 quotation
+quotations
 YYYY
 Yeah
 You
