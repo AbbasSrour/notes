@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/ERP/Purchase/Requisition.md",
+                "file": "Work/ERP/Purchase/Order.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Requisition"
+              "title": "Order"
             }
           }
         ]
@@ -285,8 +285,8 @@
   },
   "active": "1fd26bb3bbafb355",
   "lastOpenFiles": [
-    "Work/ERP/Purchase/Order.md",
     "Work/ERP/Purchase/Requisition.md",
+    "Work/ERP/Purchase/Order.md",
     "Work/ERP/Sales/Invoice.md",
     "Work/ERP/Misc/List Page.md",
     "Work/ERP/Misc/Onboarding.md",
