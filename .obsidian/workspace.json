@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/ERP/Misc/Onboarding.md",
+                "file": "Work/ERP/Sales/Invoice.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Onboarding"
+              "title": "Invoice"
             }
           }
         ]
@@ -285,8 +285,9 @@
   },
   "active": "1fd26bb3bbafb355",
   "lastOpenFiles": [
-    "Work/ERP/Sales/Invoice.md",
+    "Work/ERP/Misc/List Page.md",
     "Work/ERP/Misc/Onboarding.md",
+    "Work/ERP/Sales/Invoice.md",
     "Work/ERP/Untitled",
     "Work/ERP/Sales/Return Order.md",
     "Work/ERP/Sales/Quotation.md",
@@ -314,7 +315,6 @@
     "Work/Galoper ERP.md",
     "Work/ERP/Misc/Components.md",
     "Work/ERP/Misc/Edit Page.md",
-    "Work/ERP/Misc/List Page.md",
     "Work/ERP/Misc/Untitled",
     "Work/ERP/Misc",
     "Work/ERP/Supplier",
