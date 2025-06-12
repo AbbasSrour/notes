@@ -1,25 +1,25 @@
 {
   "main": {
-    "id": "8e6f876fed3cd346",
+    "id": "144eef194c5a3b3e",
     "type": "split",
     "children": [
       {
-        "id": "4065a4f303906d4c",
+        "id": "736707a910f19d55",
         "type": "tabs",
         "children": [
           {
-            "id": "1fd26bb3bbafb355",
+            "id": "0f3892625e53e074",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/ERP/Purchase/Request For Quotation.md",
+                "file": "Welcome.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Request For Quotation"
+              "title": "Welcome"
             }
           }
         ]
@@ -28,15 +28,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "da258f10b131bebd",
+    "id": "d3bfa899b0433c8d",
     "type": "split",
     "children": [
       {
-        "id": "87d8b4e4ab4dce2c",
+        "id": "83ebf2c393299220",
         "type": "tabs",
         "children": [
           {
-            "id": "a174f4000dc4d363",
+            "id": "cda0b47c1bd36f02",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -49,13 +49,13 @@
             }
           },
           {
-            "id": "6ba20850d019f935",
+            "id": "e9bdb49d2fffcd68",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -66,7 +66,7 @@
             }
           },
           {
-            "id": "aa4bb06666edad09",
+            "id": "9337e4d54241974e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -74,49 +74,28 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
-          },
-          {
-            "id": "1a9bda09c705d068",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "05cb0ff84d1607fc",
-            "type": "leaf",
-            "state": {
-              "type": "copilot-chat-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 258.5
+    "width": 300
   },
   "right": {
-    "id": "29baa0b6d6967c5e",
+    "id": "63cec5911a23590e",
     "type": "split",
     "children": [
       {
-        "id": "65f83784561ec0b8",
+        "id": "e420553d7599d4c8",
         "type": "tabs",
-        "dimension": 56.10687022900763,
         "children": [
           {
-            "id": "bbec3599bf36f7f0",
+            "id": "928439e595a8d39b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/Galoper ERP.md",
+                "file": "Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,210 +105,124 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Galoper ERP"
+              "title": "Backlinks for Test"
             }
           },
           {
-            "id": "8c60aba367fb55a9",
+            "id": "6712d64d9699ff04",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Test.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "3279bde6d8b8bf93",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "f538c774bcf99d29",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/Galoper ERP.md"
+                "file": "Test.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Galoper ERP"
+              "title": "Outline of Test"
             }
           },
           {
-            "id": "bd0087133e5f7078",
-            "type": "leaf",
-            "state": {
-              "type": "timeline",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "83b1d2b3dbd4bad8",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "7379d8d154bc8ffe",
-        "type": "tabs",
-        "dimension": 43.89312977099237,
-        "children": [
-          {
-            "id": "e1d0699e9b8775ff",
+            "id": "5bb393668bdd49e7",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "d2516a09b4ce59e9",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Work/Galoper ERP.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [
-                    {
-                      "query": "path:ADS",
-                      "color": {
-                        "a": 1,
-                        "rgb": 14701138
-                      }
-                    },
-                    {
-                      "query": "path:DBMS",
-                      "color": {
-                        "a": 1,
-                        "rgb": 11657298
-                      }
-                    },
-                    {
-                      "query": "path:Networking",
-                      "color": {
-                        "a": 1,
-                        "rgb": 5431378
-                      }
-                    },
-                    {
-                      "query": "path:NodeJS",
-                      "color": {
-                        "a": 1,
-                        "rgb": 5431473
-                      }
-                    },
-                    {
-                      "query": "path:OS",
-                      "color": {
-                        "a": 1,
-                        "rgb": 5395168
-                      }
-                    },
-                    {
-                      "query": "path:SE",
-                      "color": {
-                        "a": 1,
-                        "rgb": 11621088
-                      }
-                    }
-                  ],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 9.91452991452991,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.18692716633268341,
-                  "close": true
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graph of Galoper ERP"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 359.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "markdown-importer:Open format converter": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
       "obsidian-statusbar-pomo:Start pomodoro": false,
-      "copilot:Copilot Chat": false,
       "smart-connections:Open: View Smart Connections": false,
-      "smart-connections:Open: Smart Chat Conversation": false
+      "smart-connections:Open: Smart Chat Conversation": false,
+      "copilot:Copilot Chat": false
     }
   },
-  "active": "1fd26bb3bbafb355",
+  "active": "0f3892625e53e074",
   "lastOpenFiles": [
-    "Work/ERP/Purchase/Order.md",
-    "Work/ERP/Purchase/Request For Quotation.md",
-    "Work/ERP/Purchase/Requisition.md",
-    "Work/ERP/Sales/Invoice.md",
-    "Work/ERP/Misc/List Page.md",
-    "Work/ERP/Misc/Onboarding.md",
-    "Work/ERP/Untitled",
+    "Internships.md",
+    "Work/ERP/Supplier/Account.md",
+    "Work/ERP/Settings/Inventory.md",
+    "Work/ERP/Settings/General.md",
     "Work/ERP/Sales/Return Order.md",
     "Work/ERP/Sales/Quotation.md",
     "Work/ERP/Sales/Pricelist.md",
     "Work/ERP/Sales/Order.md",
     "Work/ERP/Sales/Offers And Promotions.md",
-    "Misc/Untitled.md",
-    "Untitled 1.md",
-    "Misc",
-    "Work/ERP/Todo.md",
-    "Work/ERP/Inventory/Item.md",
-    "Work/ERP/Sales",
-    "Work/ERP/Purchase/Requistion.md",
-    "Form App Notes.md",
-    "Work/Pulse/Fixes.md",
-    "Work/ERP/Settings/General.md",
-    "Work/Pulse",
-    "Work/ERP/Inventory/Opening Quantity.md",
-    "Work/ERP/Settings/Inventory.md",
-    "Work/ERP/Accounting/Chart Of Account.md",
-    "Work/ERP/Inventory/Stock Adjustment.md",
-    "Work/ERP/Misc/Form.md",
+    "Work/ERP/Sales/Invoice.md",
+    "Work/ERP/Purchase/Request For Quotation.md",
+    "Work/ERP/Purchase/Order.md",
     "Work/ERP/Misc/Release.md",
-    "Work/Galoper ERP.md",
-    "Work/ERP/Misc/Untitled",
-    "Work/ERP/Misc",
+    "Work/ERP/Misc/Onboarding.md",
+    "Work/ERP/Misc/List Page.md",
+    "Work/ERP/Misc/Form.md",
+    "Work/ERP/Misc/Edit Page.md",
+    "Work/ERP/Misc/Components.md",
+    "Work/ERP/Misc/Actions.md",
+    "Work/ERP/Inventory/Stock Adjustment.md",
+    "Work/ERP/Inventory/Opening Quantity.md",
+    "Work/ERP/Inventory/Item.md",
+    "Work/ERP/Accounting/Chart Of Account.md",
+    "Work/Pulse/Fixes.md",
+    "Work/ERP/Todo.md",
     "Work/ERP/Supplier",
     "Work/ERP/Settings",
-    "Work/ERP/Inventory",
+    "Work/ERP/Sales",
     "Work/ERP/Purchase",
-    "Misc/pf4-vscode.png",
-    "Misc/pf7-vscode.png",
-    "Misc/pf6-vscode.png",
-    "Misc/pf5-vscode.png",
-    "Misc/pf3-vscode.png",
-    "Misc/pf2-vscode.png",
-    "Misc/pf1-vscode.png",
-    "Misc/pf7-success.png",
-    "Misc/pf7-error.png",
-    "Misc/pf7-pycharm.png"
+    "Work/ERP/Misc",
+    "Work/ERP/Inventory",
+    "Work/ERP/Accounting",
+    "Work/Pulse",
+    "Work/ERP",
+    "Work/Ciatek Website.md",
+    "Work",
+    "Untitled.canvas"
   ]
 }
