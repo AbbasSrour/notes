@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Class.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "Class"
             }
           }
         ]
@@ -187,7 +187,10 @@
   },
   "active": "0f3892625e53e074",
   "lastOpenFiles": [
+    "2025-05-30.md",
+    "Class.md",
     "Internships.md",
+    "Welcome.md",
     "Work/ERP/Supplier/Account.md",
     "Work/ERP/Settings/Inventory.md",
     "Work/ERP/Settings/General.md",
@@ -210,8 +213,6 @@
     "Work/ERP/Inventory/Opening Quantity.md",
     "Work/ERP/Inventory/Item.md",
     "Work/ERP/Accounting/Chart Of Account.md",
-    "Work/Pulse/Fixes.md",
-    "Work/ERP/Todo.md",
     "Work/ERP/Supplier",
     "Work/ERP/Settings",
     "Work/ERP/Sales",
@@ -221,7 +222,6 @@
     "Work/ERP/Accounting",
     "Work/Pulse",
     "Work/ERP",
-    "Work/Ciatek Website.md",
     "Work",
     "Untitled.canvas"
   ]
