@@ -56,6 +56,7 @@ Tax
 They
 Taxes
 True
+Tuesday
 RAM
 Random
 Record
@@ -105,6 +106,9 @@ Recognition
 Reduce
 Resources
 Report
+Reciept
+Return
+Returnable
 Model
 Machine
 MM
@@ -149,6 +153,7 @@ Message
 Mira
 Monday
 Mohsen
+Mkodra
 of
 or
 one
@@ -724,6 +729,7 @@ super
 sold
 spending
 solid
+share
 that
 takes
 time
@@ -958,6 +964,7 @@ eitherDiscountOrOffersAndPromotions
 export
 excel
 expairy
+exchange
 computer
 calls
 costs
@@ -1149,6 +1156,7 @@ customerGroupMismatch
 capitalization
 charge
 colored
+changelog
 is
 instruction
 instance
@@ -1625,6 +1633,7 @@ filtering
 filter
 foramtted
 filtered
+favicon
 Subroutine
 Start
 Selection
@@ -1881,6 +1890,7 @@ Weight
 Width
 Whole
 Why
+Wed
 defined
 data
 deletions
@@ -2183,6 +2193,7 @@ General
 Generalize
 Generate
 Group
+Goods
 preferred
 perfectly
 pairs
@@ -2343,6 +2354,8 @@ print
 pins
 pin
 permissions
+pm
+pos
 Family
 Find
 Finish
@@ -2582,6 +2595,7 @@ Name
 NAN
 Nan
 Number
+Nour
 value
 values
 vs
