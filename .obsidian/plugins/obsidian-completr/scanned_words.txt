@@ -57,6 +57,7 @@ They
 Taxes
 True
 Tuesday
+Transaction
 RAM
 Random
 Record
@@ -295,6 +296,7 @@ Changing
 Confirmation
 Cannot
 Combobox
+CLASS
 Definition
 Data
 Delete
@@ -458,6 +460,7 @@ measures
 missing
 multicurrency
 multuple
+med
 Access
 Average
 Analysis
@@ -524,6 +527,7 @@ Atleast
 Amount
 Action
 Ali
+Agent
 specifies
 statements
 set
@@ -860,6 +864,7 @@ thg
 tabbing
 taxes
 turn
+ticket
 every
 executes
 efficiency
@@ -1157,6 +1162,7 @@ capitalization
 charge
 colored
 changelog
+click
 is
 instruction
 instance
@@ -1714,6 +1720,8 @@ Sales
 Styles
 Swap
 Sensitive
+Seperator
+Serial
 loops
 loop
 link
@@ -1865,6 +1873,7 @@ badges
 besides
 buying
 bytlbu
+border
 Worst
 We
 Where
@@ -2016,6 +2025,8 @@ deffered
 defferred
 deposit
 deferral
+dashes
+dial
 represented
 reason
 reflects
@@ -2151,6 +2162,7 @@ resets
 reverse
 repeated
 rejecting
+redeem
 Best
 BREAK
 Backlinks
@@ -2492,6 +2504,7 @@ Put
 Package
 Pricing
 Promotions
+Pin
 It
 Ids
 Insert
@@ -2576,6 +2589,8 @@ Extends
 Expected
 Expenses
 Either
+EMPTY
+Expiry
 Keys
 Key
 KB
@@ -2596,6 +2611,7 @@ NAN
 Nan
 Number
 Nour
+NUMBER
 value
 values
 vs
@@ -2645,6 +2661,8 @@ Locking
 Logs
 LaTeX
 Label
+LOGO
+LINE
 Values
 Viewer
 View
@@ -2755,6 +2773,7 @@ UML
 Unit
 UOM
 Uom
+USERNAME
 join
 job
 js
@@ -2802,6 +2821,7 @@ Java
 Quality
 Query
 Quantity
+Qr
 zoom
 zod
 zero
