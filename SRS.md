@@ -15,4 +15,6 @@
 - Vendor activate & deactivate 
 - User can create private events, where user chooses the people who sign up, but based on the size the user pays.
 - Integrate with google calendar (export ical)
+- Vendor Balance & Manager Balance
+- Filter by Vendor
 - 
