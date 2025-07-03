@@ -2,10 +2,10 @@
 -  Remove OMT only Wish & Banks
 -  Allow cancellation where money will be refunded minus the fees and the platform percentage and reschedule. 
 - Based on event type cancellation or reschedule 
-	- Event reschedule, but no cancellation
+	- Open Play reschedule, but no cancellation
 	- Course cancellation
-	- Venue cancellation
+	- One Time cancellation
 -  Add terms and conditions 
 - Mention for cancellation and reschedule the time or cancellation fee
 - Vendor specifies the time before the user can cancel or reschedule 
-- 
+- Vendor can reschedule the time slots
