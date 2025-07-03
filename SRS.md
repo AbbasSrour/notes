@@ -18,3 +18,4 @@
 - Vendor Balance & Manager Balance
 - Filter by Vendor
 - Subscription, where the user either buys a ticket for monthly offer, or weekly, weekend, per vendor, only allowable for no capacity, consider having it the same for open play event 
+- Users can have kids, where they fill the kids data, 
