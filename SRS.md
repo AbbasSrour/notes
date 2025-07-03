@@ -2,9 +2,9 @@
 -  Remove OMT only Wish & Banks
 -  Allow cancellation where money will be refunded minus the fees and the platform percentage and reschedule. 
 - Based on event type cancellation or reschedule 
-	- Open Play reschedule, but no cancellation
-	- Course cancellation
-	- One Time cancellation
+	- Open Play Event reschedule, but no cancellation
+	- Course Event cancellation
+	- One Time Event cancellation
 	- Private events
 - Add terms and conditions 
 - Mention for cantcellation and reschedule the time or cancellation fee
@@ -12,5 +12,5 @@
 - Vendor can change the time event 
 - Vendor can cancel events, which has different rules for money refund
 - Vendor activate & deactivate 
-- User can create private events, where user chooses 
+- User can create private events, where user chooses the people who sign up, but based on the size the user pays.
 - 
