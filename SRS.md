@@ -9,3 +9,4 @@
 - Mention for cancellation and reschedule the time or cancellation fee
 - Vendor specifies the time before the user can cancel or reschedule 
 - Vendor can reschedule the time slots
+- 
