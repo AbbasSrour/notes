@@ -10,4 +10,5 @@
 - Vendor specifies the time before the user can cancel or reschedule 
 - Vendor can change the time event 
 - Vendor can cancel events, which has different rules for money refund
+- Vendor activate & deactivate 
 - 
