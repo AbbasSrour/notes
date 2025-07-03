@@ -2,5 +2,6 @@
 -  Remove OMT only Wish & Banks
 -  Allow cancellation where money will be refunded and reschedule 
 - Based on event type cancellation or reschedule 
-	- Event Reschedule, but no cancellation
-	- 
+	- Event reschedule, but no cancellation
+	- Course cancellation
+	- venue reschedule 
