@@ -1,4 +1,6 @@
 -  Add payment gateway for banks
 -  Remove OMT only Wish & Banks
 -  Allow cancellation where money will be refunded and reschedule 
-- 
+- Based on event type cancellation or reschedule 
+	- Event Reschedule, but no cancellation
+	- 
