@@ -12,5 +12,5 @@
 - Vendor can change the time event 
 - Vendor can cancel events, which has different rules for money refund
 - Vendor activate & deactivate 
-- User can create private events, where user chooses  
+- User can create private events, where user chooses 
 - 
