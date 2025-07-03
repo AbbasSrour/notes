@@ -1,3 +1,4 @@
 -  Add payment gateway for banks
 -  Remove OMT only Wish & Banks
--  Allow cancellation and  
+-  Allow cancellation where money will be refunded and reschedule 
+- 
