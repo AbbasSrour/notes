@@ -9,4 +9,5 @@
 - Mention for cancellation and reschedule the time or cancellation fee
 - Vendor specifies the time before the user can cancel or reschedule 
 - Vendor can change the time event 
+- Vendor can cancel events, which has different rules for money refund
 - 
