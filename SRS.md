@@ -4,7 +4,7 @@
 - Based on event type cancellation or reschedule 
 	- Open Play Event reschedule, but no cancellation
 	- Course Event cancellation
-	- One Time Event cancellation and reschedule 
+	- Venue Event cancellation and reschedule 
 	- Private Events
 - Add terms and conditions 
 - Mention for cantcellation and reschedule the time or cancellation fee
