@@ -1,2 +1,3 @@
 -  Add payment gateway for banks
+-  Remove OMT only Wish & Banks
 -  
