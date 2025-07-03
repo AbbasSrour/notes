@@ -5,10 +5,12 @@
 	- Open Play reschedule, but no cancellation
 	- Course cancellation
 	- One Time cancellation
+	- Private events
 - Add terms and conditions 
-- Mention for cancellation and reschedule the time or cancellation fee
+- Mention for cantcellation and reschedule the time or cancellation fee
 - Vendor specifies the time before the user can cancel or reschedule 
 - Vendor can change the time event 
 - Vendor can cancel events, which has different rules for money refund
 - Vendor activate & deactivate 
+- User can create private events, where user chooses  
 - 
