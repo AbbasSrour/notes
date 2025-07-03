@@ -8,10 +8,11 @@
 	- Venue Event cancellation and reschedule 
 	- Private Events
 - Add terms and conditions 
-- Mention for cantcellation and reschedule the time or cancellation fee
+- Mention for cancellation and reschedule the time or cancellation fee
 - Vendor specifies the time before the user can cancel or reschedule 
 - Vendor can change the time event 
 - Vendor can cancel events, which has different rules for money refund
 - Vendor activate & deactivate 
 - User can create private events, where user chooses the people who sign up, but based on the size the user pays.
+- Integrate with google calendar (export ical)
 - 
