@@ -3,6 +3,7 @@
 -  Allow cancellation where money will be refunded minus the fees and the platform percentage and reschedule. 
 - Based on event type cancellation or reschedule 
 	- Open Play Event reschedule, but no cancellation
+	- One Time Event like mothers day
 	- Course Event cancellation
 	- Venue Event cancellation and reschedule 
 	- Private Events
