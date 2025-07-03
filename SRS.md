@@ -17,4 +17,4 @@
 - Integrate with google calendar (export ical)
 - Vendor Balance & Manager Balance
 - Filter by Vendor
-- Subscription, where the user either buys a ticket for monthly offer, or weekly, weekend, per vendor
+- Subscription, where the user either buys a ticket for monthly offer, or weekly, weekend, per vendor, only allowable for no capacity, consider having it the same for open play event 
