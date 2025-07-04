@@ -1,2 +1,1 @@
-- Opening Quantity 2 days
-- 
+- Opening Quantity 2 days 
