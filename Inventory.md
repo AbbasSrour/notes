@@ -1,1 +1,1 @@
-- Opening Quantity 2 days 
+- Opening Quantity 2 days to implement, 1 day to review and test
