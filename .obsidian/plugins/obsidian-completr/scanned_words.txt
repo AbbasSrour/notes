@@ -156,6 +156,7 @@ Monday
 Mohsen
 Mkodra
 Mention
+Manager
 of
 or
 one
@@ -465,6 +466,7 @@ med
 money
 minus
 mothers
+monthly
 Access
 Average
 Analysis
@@ -975,6 +977,7 @@ export
 excel
 expairy
 exchange
+emergency
 computer
 calls
 costs
@@ -1172,6 +1175,8 @@ cancellation
 conditions
 chooses
 calendar
+consider
+contact
 is
 instruction
 instance
@@ -1438,6 +1443,8 @@ accepting
 alfa
 adi
 activate
+allowable
+allergies
 where
 worst
 when
@@ -1487,6 +1494,8 @@ weight
 woods
 warn
 who
+weekly
+weekend
 unit
 units
 usually
@@ -1735,6 +1744,7 @@ Swap
 Sensitive
 Seperator
 Serial
+Subscription
 loops
 loop
 link
@@ -1887,6 +1897,8 @@ besides
 buying
 bytlbu
 border
+buys
+blood
 Worst
 We
 Where
@@ -2042,6 +2054,7 @@ deferral
 dashes
 dial
 deactivate
+disease
 represented
 reason
 reflects
@@ -2207,6 +2220,7 @@ Barcode
 Brand
 Buy
 Banks
+Balance
 Generally
 Get
 Gläser
@@ -2391,6 +2405,7 @@ pos
 private
 people
 pays
+play
 Family
 Find
 Finish
@@ -2423,6 +2438,8 @@ known
 knowing
 know
 kil
+kids
+kid
 have
 half
 has
@@ -2472,6 +2489,7 @@ hard
 hitting
 him
 highest
+hospital
 Properties
 Planner
 Pomodoro
@@ -2585,6 +2603,7 @@ Invoice
 Idk
 Identification
 Integrate
+Info
 Every
 Execute
 Event
@@ -2668,6 +2687,7 @@ visual
 volume
 vouchers
 voucher
+vendor
 Leaf
 Link
 Lead
