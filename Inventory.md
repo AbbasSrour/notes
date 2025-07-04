@@ -1,1 +1,2 @@
 - Opening Quantity 2 days to implement, 1 day to review and test
+- Stock Adjustment 1 day to implement, 1/2 day to review and test
