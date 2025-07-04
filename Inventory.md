@@ -1,4 +1,4 @@
 - Opening Quantity 2 days to implement, 1 day to review and test
 - Stock Adjustment 1 day to implement, 1/2 day to review and test
 - Internal Transfer  1 day to implement, 1/2 review and test
-- ITem
+- Item should not take more than 3-4 hours to merge
