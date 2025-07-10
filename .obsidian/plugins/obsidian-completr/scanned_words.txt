@@ -58,6 +58,7 @@ Taxes
 True
 Tuesday
 Transaction
+Transfer
 RAM
 Random
 Record
@@ -2195,6 +2196,7 @@ refunded
 reschedule
 rules
 refund
+review
 Best
 BREAK
 Backlinks
@@ -2866,6 +2868,7 @@ Offered
 Offers
 Operator
 OMT
+Opening
 Journal
 Jump
 Java
