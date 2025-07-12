@@ -1,1 +1,2 @@
 - Latest orders on top
+- Show stock of variation in order
