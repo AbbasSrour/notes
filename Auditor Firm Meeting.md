@@ -21,6 +21,6 @@ They work mainly in Lebanon, Iraq, GCC, newly in Syria
 - [ ] They want payroll
 - [ ] Multi company, mutli user 
 - [ ] They want to be able to choose what company, then choose what branch 
-
+- [ ] They want a presentation and a quotation 
 
 
