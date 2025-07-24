@@ -10,5 +10,5 @@ printed:
 - file:51, 10 quantity, 1:46
 - file:52, 19 quantity, 2:25
 - file:53, 16 quantity, 3:11
-- file:56, 4 quantity, 9:39
-- file:
+- file:56, 4 quantity, 9:39 today
+- file:57, 10 quantity, 9:49 today
