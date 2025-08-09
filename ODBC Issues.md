@@ -1,4 +1,5 @@
 - [ ] Some rows in party targets are null
 - [ ] Payment Performance in ledger performance is not passable
 - [ ] Can't parse $PendingValue and $BillDueDate in pending receivable bills
+- [ ] sales last fy don't contain forex currency
 - [ ] 
