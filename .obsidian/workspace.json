@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "ODBC Issues.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "ODBC Issues"
             }
           }
         ]
@@ -187,13 +187,13 @@
   },
   "active": "2548512abb40a948",
   "lastOpenFiles": [
-    "ODBC Issues.md",
-    "Untitled.md",
-    "Auditor Firm Meeting.md",
     "SRS.md",
-    "Inventory.md",
-    "UI&UX Assessment.md",
     "Timeline.md",
+    "UI&UX Assessment.md",
+    "Untitled.md",
+    "ODBC Issues.md",
+    "Auditor Firm Meeting.md",
+    "Inventory.md",
     "Class.md",
     "2025-05-30.md",
     "Internships.md",
