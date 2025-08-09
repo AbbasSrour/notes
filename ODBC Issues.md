@@ -1,4 +1,4 @@
 - [ ] Some rows in party targets are null
 - [ ] Payment Performance in ledger performance is not passable
-- [ ] Can't parse pending value in pending recievable bills
+- [ ] Can't parse $PendingValue and $BillDueDate in pending receivable bills
 - [ ] 
