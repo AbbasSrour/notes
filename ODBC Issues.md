@@ -2,4 +2,4 @@
 - [ ] Payment Performance in ledger performance is not passable
 - [ ] Can't parse $PendingValue and $BillDueDate in pending receivable bills
 - [ ] sales last fy don't contain forex currency
-- [ ] 
+- [ ] the avg. sales algos are invalid
