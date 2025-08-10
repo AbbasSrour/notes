@@ -2,4 +2,6 @@
 - [ ] Payment Performance in ledger performance is not passable
 - [ ] Can't parse $PendingValue and $BillDueDate in pending receivable bills
 - [ ] sales last fy don't contain forex currency
-- [ ] the avg. sales algos are invalid
+- [ ] the avg. sales algos are invalid 
+- [ ] the avg. payment algo is invalid because we need to factor in credit notes as well in the calculation, check Debtors Mavic - Goofs Abrewa CR for Feb for example
+- [ ] 
