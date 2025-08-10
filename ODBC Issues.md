@@ -5,4 +5,4 @@
 - [ ] the avg. sales algos are invalid 
 - [ ] the avg. payment algo is invalid because we need to factor in credit notes as well in the calculation, check Debtors Mavic - Goofs Abrewa CR for Feb for example
 - [ ] The payment performance is wrong, the documentation says summation(no summation is being done since only one row per ledger) of the paymentperformance column from the ledgerperformance table, but it is returning wrong number
-- [ ] 
+- [ ] We have an issue in SalesTarget when the Strategy is 1
