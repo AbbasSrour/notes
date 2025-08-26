@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Auditor Firm Meeting.md",
+                "file": "Class.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Auditor Firm Meeting"
+              "title": "Class"
             }
           }
         ]
@@ -188,6 +188,7 @@
   },
   "active": "2548512abb40a948",
   "lastOpenFiles": [
+    "Auditor Firm Meeting.md",
     "Class.md",
     "Internships.md",
     "Inventory.md",
@@ -196,7 +197,6 @@
     "Timeline.md",
     "UI&UX Assessment.md",
     "Untitled.md",
-    "Auditor Firm Meeting.md",
     "2025-05-30.md",
     "Welcome.md",
     "Work/ERP/Supplier/Account.md",

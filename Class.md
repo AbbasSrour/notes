@@ -1,4 +1,4 @@
-- [ ] Allow the admin to create orders and allow him to print serials and assign pins.
+- [x] Allow the admin to create orders and allow him to print serials and assign pins.
 - [ ] The admin should know orders created by him or orders by org
 - [ ] The admin the admin to check the dates of assignment and print of serial numbers assigned, and to be to navigate directly from the serial number
 - [ ] Variation code should a string (super important)
