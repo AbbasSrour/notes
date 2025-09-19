@@ -1,7 +1,7 @@
 ---
 ~
 ---
-## Software They Use
+# Software They Use
 - Dolphine
 - Zohoo
 - SAP

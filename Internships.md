@@ -1,3 +1,0 @@
-- [ ]  Mira Monday 10am
-- [ ] Ali Mohsen 10:30am
-- [ ] Idk 11am
