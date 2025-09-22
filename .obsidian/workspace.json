@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Daily Planner 2.md",
+                "file": "SRS.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Daily Planner 2"
+              "title": "SRS"
             }
           }
         ]
@@ -188,6 +188,7 @@
   },
   "active": "2548512abb40a948",
   "lastOpenFiles": [
+    "Templates/Daily Planner 2.md",
     "Templates/Daily Planner.md",
     "Templates/Add Events.md",
     "Inventory.md",
@@ -213,7 +214,6 @@
     "Work/ERP/Sales/Pricelist.md",
     "Work/ERP/Sales/Order.md",
     "Work/ERP/Sales/Offers And Promotions.md",
-    "Work/ERP/Sales/Invoice.md",
     "Work/ERP/Supplier",
     "Work/ERP/Settings",
     "Work/ERP/Sales",
