@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SRS.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "SRS"
+              "title": "Untitled"
             }
           }
         ]
@@ -188,12 +188,13 @@
   },
   "active": "2548512abb40a948",
   "lastOpenFiles": [
+    "SRS.md",
+    "Untitled.md",
     "Templates/Daily Planner 2.md",
     "Templates/Daily Planner.md",
     "Templates/Add Events.md",
     "Inventory.md",
     "ODBC Issues.md",
-    "SRS.md",
     "UI&UX Assessment.md",
     "Work/ERP/Todo.md",
     "Internships.md",
@@ -202,7 +203,6 @@
     "Work/Ciatek Website.md",
     "Work/Class.md",
     "Timeline.md",
-    "Untitled.md",
     "Untitled 1.md",
     "2025-05-30.md",
     "Welcome.md",

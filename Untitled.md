@@ -1,0 +1,3 @@
+- Multi day schedule for bookings.
+- Non continuous ticket for events.
+- Scan instances for tickets for events.
