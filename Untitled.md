@@ -1,3 +1,4 @@
 - Multi day schedule for bookings.
 - Non continuous ticket for events.
 - Scan instances for tickets for events.
+- Course: customer should be able to purchase a number of sessions, or complete course.
