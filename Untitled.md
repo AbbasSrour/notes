@@ -1,5 +1,4 @@
 - Multi day schedule for bookings.
 - Non continuous ticket for events.
-- Scan instances for tickets for events.
-- Course: we should able to have different schedules for the same course
+- Events: When tickets are scanned and thus consumed they should be scanned.
 - Course: user should be able to substitute the session for another one
