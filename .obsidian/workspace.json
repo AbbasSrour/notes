@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/Address Resolution Protocol.md",
+                "file": "Class Digital Pins.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Address Resolution Protocol"
+              "title": "Class Digital Pins"
             }
           }
         ]
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/Address Resolution Protocol.md",
+                "file": "Class Digital Pins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Address Resolution Protocol"
+              "title": "Backlinks for Class Digital Pins"
             }
           },
           {
@@ -156,9 +156,11 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "928439e595a8d39b",
+  "active": "f4a06aa7376f87a2",
   "lastOpenFiles": [
     "Untitled.md",
+    "Class Digital Pins.md",
+    "Networking/Address Resolution Protocol.md",
     "Untitled.canvas",
     "Untitled 1.base",
     "Untitled.base",
@@ -176,7 +178,6 @@
     "Work/Ciatek Website.md",
     "Work/Class.md",
     "Timeline.md",
-    "Untitled 1.md",
     "2025-05-30.md",
     "Welcome.md",
     "Work/ERP/Supplier/Account.md",

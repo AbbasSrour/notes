@@ -1,0 +1,3 @@
+- [ ] Reconciliation Touch ~ 2 days 
+	- [ ] Requires adding a place to upload and the upload functionality
+	- [ ] Requires adding a place to see the pins that are
