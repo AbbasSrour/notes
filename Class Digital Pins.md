@@ -15,6 +15,6 @@
 - [ ] Investigate if we can make it automatic based on the first numbers ~ 2 days
 - [ ] Go over all the tables and fix the sorting and filtering if needed ~ 4h
 - [ ] Adjust when exporting orders that it sorts the pins by expiry date then serial ~ 2h
-- [ ] Fix loader ~ infinite days
+- [ ] Fix loader ~ infinite days (standard payment + iphone 17 pro max extra)
 - [ ] Report: Sales/Stock by company branch, employee
 - [ ] Report: Stock Movement
