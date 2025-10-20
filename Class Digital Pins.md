@@ -3,7 +3,7 @@
 	- [ ] Requires adding status for pins on the UI
 	- [ ] Requires the ability to export pins that are nearing there lifetime 
 - [ ] Add a view for each serial that includes details about its current state, which order linked to, export/print instances.... ~1 day
-- [ ] Add taxes to the system ~2 days
+- [ ] Add taxes to the system ~2-3 days
 	- [ ] Requires a place to add the taxes
 	- [ ] Requires the ability to override taxes 
 	- [ ] Requires adding the default taxes to the variations
@@ -16,5 +16,21 @@
 - [ ] Go over all the tables and fix the sorting and filtering if needed ~ 4h
 - [ ] Adjust when exporting orders that it sorts the pins by expiry date then serial ~ 2h
 - [ ] Fix loader ~ infinite days (standard payment + iphone 17 pro max extra)
-- [ ] Report: Sales/Stock by company branch, employee
-- [ ] Report: Stock Movement
+- [ ] Report: Sales/Stock by company branch, employee ~ 1.5 days
+- [ ] Report: Stock Movement ~ 1.5 days
+- [ ] Quotation:  ~3 days
+	- [ ] Implementation backend/frontend
+	- [ ] Convert to invoice
+	- [ ] Print
+	- [ ] Sharing by email/whatsapp
+- [ ] Report: How much printed per day by client ~1.5 days
+- [ ] Report: Distribution, ratio, turnover  ~ 2 days
+	- [ ] year by year comparision
+	- [ ] month by month comparision
+- [ ] Revenue by source ~1.5 days
+- [ ] Two factor Totop ~ 2days
+- [ ] Remeber me should log you out when you close the the tab if it is set to false ~ 2h
+- [ ] User for reports only data ~ 4h
+- [ ] Make system mobile responsive ~2 days
+- [ ] Table remove voucher ~ 1h
+- [ ] When reprinting choose what pins to reprint ~1day
