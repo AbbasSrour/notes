@@ -34,3 +34,4 @@
 - [ ] Make system mobile responsive ~2 days
 - [ ] Table remove voucher ~ 1h
 - [ ] When reprinting choose what pins to reprint ~1day
+- [ ] Invoic
