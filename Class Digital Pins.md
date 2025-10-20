@@ -1,3 +1,20 @@
 - [ ] Reconciliation Touch ~ 2 days 
 	- [ ] Requires adding a place to upload and the upload functionality
-	- [ ] Requires adding a place to see the pins that are
+	- [ ] Requires adding status for pins on the UI
+	- [ ] Requires the ability to export pins that are nearing there lifetime 
+- [ ] Add a view for each serial that includes details about its current state, which order linked to, export/print instances.... ~1 day
+- [ ] Add taxes to the system ~2 days
+	- [ ] Requires a place to add the taxes
+	- [ ] Requires the ability to override taxes 
+	- [ ] Requires adding the default taxes to the variations
+- [ ] Fix search bar in the order ~ 1h
+- [ ] Fix white space trimming in search ~1h
+- [ ] Add a copy for serial number in table ~1h
+- [ ] Change all the fields for serials to the proper naming, (serials, pins, expiry) instead of (iden.#, serial,expiry) ~ 1 day
+- [ ] Multiple pages import (alfa) ~ 1 day
+- [ ] Investigate if we can make it automatic based on the first numbers ~ 2 days
+- [ ] Go over all the tables and fix the sorting and filtering if needed ~ 4h
+- [ ] Adjust when exporting orders that it sorts the pins by expiry date then serial ~ 2h
+- [ ] Fix loader ~ infinite days
+- [ ] Report: Sales/Stock by company branch, employee
+- [ ] Report: Stock Movement
